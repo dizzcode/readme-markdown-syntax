@@ -6,6 +6,7 @@ It’s commonly applied in Gists, comments, and files with .md or .markdown exte
 
 - [Headings](#headings)
 - [Text styles](#text-styles)
+- [Lists](#lists)
 
 <br>
 
@@ -183,10 +184,81 @@ This is the normal text style
 <br>
 
 ___
+<!-- -------------------------|-| Lists |-|-------------------------- -->
 
-### Lists
+# Lists
 
-> Unordered 
+## 1) Ordered 
+
+### First level
+
+1. First level - Item one
+2. First level - Item two
+3. First level - Item three
+<br>
+
+```md
+1. First level - Item one
+2. First level - Item two
+3. First level - Item three
+```
+<br>
+
+### Second level
+
+1. First level
+   1. Second level
+   2. Second level
+<br>
+
+```md
+1. First level
+   1. Second level
+   2. Second level
+```
+<br>
+
+### Multi level
+
+1. First level
+    1. Second level
+        1. Third level
+            - Fourth level
+        2. Third level
+            - Fourth level
+     2. Second level  
+2. First level
+    1. Second level
+
+<br>
+
+```md
+1. First level
+    1. Second level
+        1. Third level
+            - Fourth level
+        2. Third level
+            - Fourth level
+     2. Second level  
+2. First level
+    1. Second level
+```
+<br>
+
+##
+
+
+```git
+1. First
+2. jhg
+   1. Second
+   2. jhg
+      1. Third
+      2. jhg
+```
+
+
+
 
 ```git
 * Item 1
@@ -208,23 +280,7 @@ OR
 `- Item 1`
 - Item 1
 
-> Ordered 
 
-```git
-1. First
-2. jhg
-   1. Second
-   2. jhg
-      1. Third
-      2. jhg
-```
-
-1. First
-2. jhg
-   1. Second
-   2. jhg
-      1. Third
-      2. jhg
 
 ___
 
