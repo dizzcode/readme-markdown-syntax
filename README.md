@@ -589,6 +589,17 @@ Here is a simple footnote[^1]. Some other important footnote.[^2]
 ```
 ##
 
+<p align="center">
+<img 
+    src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/image_file.png" width="128" height="128" 
+/>
+<img 
+    src="https://images.unsplash.com/photo-1470813740244-df37b8c1edcb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG5hdHVyZXxlbnwwfHwwfHx8MA%3D%3D" width="128" height="128" 
+/>
+<img 
+    src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/image_file.png" width="128" height="128" 
+/>
+</p>
 
 
 <br>
