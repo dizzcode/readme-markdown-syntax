@@ -9,6 +9,7 @@ It’s commonly applied in Gists, comments, and files with .md or .markdown exte
 - [3 | Lists](#3--lists)
 - [4 | Links](#4--links)
 - [5 | Images](#5--images)
+- [6 | Alignments](#6--alignments)
 
 <br>
 
@@ -395,7 +396,7 @@ Here is a simple footnote[^1]. Some other important footnote.[^2]
 <br>
 
 <br>
-<!-- -------------------------|-| Links |-|-------------------------- -->
+<!-- -------------------------|-| Images |-|-------------------------- -->
 
 # 5 | Images
 
@@ -503,6 +504,48 @@ Here is a simple footnote[^1]. Some other important footnote.[^2]
   target='_blank'> 
   <img src='https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__github_-128.png' /> 
 </a>
+```
+
+
+<br>
+<!-- -------------------------|-| Alignments |-|-------------------------- -->
+
+# 6 | Alignments
+
+## 6.1 | Text Alignments
+
+<h3 align="left"> Heading Left </h3>
+<h3 align="center"> Heading Center </h3>
+<h3 align="right"> Heading Right </h3>
+
+```md
+<h3 align="left"> Heading Left </h3>
+<h3 align="center"> Heading Center </h3>
+<h3 align="right"> Heading Right </h3>
+```
+
+## 6.2 | Image Alignments
+
+### Left
+
+<p align="left">
+<img 
+    src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/image_file.png" 
+    width="128" 
+    height="128" 
+    border="5"
+/>
+</p>
+
+```md
+<p align="left">
+<img 
+    src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/image_file.png" 
+    width="128" 
+    height="128" 
+    border="5"
+/>
+</p>
 ```
 
 <br>
