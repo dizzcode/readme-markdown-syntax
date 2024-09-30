@@ -514,49 +514,6 @@ Here is a simple footnote[^1]. Some other important footnote.[^2]
 
 ___
 
-### Inserting Images or Gifs using links
-
-```git
-![alt](URL "title")
-```
-
-- alt in square bracket indicates the replacement text when the image fails to display (can be omitted)
-- parenthesis contains image source
-- title in quotes indicates the text to display when the mouse hovers over the image (can be omitted)
-
-Nite: Dropping the image to the readme file will upload it automatically with this syntax;
-It's the same as links, but add an exlamation mark (!) before opening square bracket;
-Image source can be either a location from the local machine or any valid image URL;
-
->Example
-
-```git
-![Octocat](https://user-images.githubusercontent.com/81953271/124010886-b571ca80-d9df-11eb-86ac-b358c48ac6aa.png "Github logo") 
-```
-![Octocat](https://user-images.githubusercontent.com/81953271/124010886-b571ca80-d9df-11eb-86ac-b358c48ac6aa.png "Github logo") 
-
-### Resize images/Gifs
-```
-<img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="385px" align="center">
-```
-<img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="385px" align="center">
-
-You can use HTML tags like width="385px", hight="876px", align="center", etc depending what you need. In this case this gif was once uploaded to the repository and the link was taken from there.
-
-Other options to resize: 
-- `![](https://  link | width=100)`
-
-___
-
-### Linking Image/Gif
-To open another webpage when image is clicked, enclose the Markdown for the image in brackets, and then add the link in parentheses.
-
-```
-[![Octocat](https://user-images.githubusercontent.com/81953271/124010886-b571ca80-d9df-11eb-86ac-b358c48ac6aa.png "GitHub Logo")](https://github.com/)
-
-```
-
-[![Octocat](https://user-images.githubusercontent.com/81953271/124010886-b571ca80-d9df-11eb-86ac-b358c48ac6aa.png "GitHub Logo")](https://github.com/)
 
 ___
 
