@@ -412,7 +412,7 @@ Here is a simple footnote[^1]. Some other important footnote.[^2]
 ```
 
 
-## 5.2 | \<img>: The Image Embed element
+## 5.2 | Image Embed element : \<img>
 
 ### Image
 
@@ -432,6 +432,7 @@ Here is a simple footnote[^1]. Some other important footnote.[^2]
 />
 ```
 <br>
+##
 
 ### GIF
 
@@ -445,12 +446,13 @@ Here is a simple footnote[^1]. Some other important footnote.[^2]
 ```md
 <img 
     src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RuamM2eW13ZnNjZ3R4aGNubGp3OHljN2I5cTlsZndkanJqc3g5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" 
-    width="72" 
-    height="72" 
+    width="128" 
+    height="148" 
 />
 ```
 
 <br>
+##
 
 ### Icons
 
@@ -472,7 +474,30 @@ Here is a simple footnote[^1]. Some other important footnote.[^2]
 />
 ```
 
+<br>
 
+## 5.3 | Image with click action
+
+[![GitHub](https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__github_-128.png)](https://github.com)
+
+```md
+[![GitHub](https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__github_-128.png)](https://github.com)
+```
+
+<a 
+  href='https://github.com' 
+  target='_blank'
+> 
+  <img src='https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__github_-128.png' /> 
+</a>
+
+```md
+<a 
+  href='https://github.com' 
+  target='_blank'
+> 
+  <img src='https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__github_-128.png' /> 
+</a>
 
 <br>
 
