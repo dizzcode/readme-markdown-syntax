@@ -4,15 +4,16 @@
 
 It’s commonly applied in Gists, comments, and files with .md or .markdown extensions. Markdown is also popular for content writing on websites and blogs, as well as for creating documentation and installation guides within project directories.
 
-- [1 | Headings](#headings)
-- [2 | Text styles](#text-styles)
-- [3 | Lists](#lists)
+- [1 | Headings](#1--headings)
+- [2 | Text styles](#2--text-styles)
+- [3 | Lists](#3--lists)
+- [4 | Links](#4--links)
 
 <br>
 
 ___
 <!-- -------------------------|-| Headings |-|-------------------------- -->
-# Headings
+# 1 | Headings
 
 # H1
 ## H2
@@ -50,10 +51,10 @@ ___
 <br>
 <!-- -------------------------|-| Text styles |-|-------------------------- -->
 
-# Text styles
+# 2 | Text styles
 <!-- -------------------------- Bold -------------------------- -->
 
-## 2.1) Bold
+## 2.1 | Bold
 
 **Bold Text Style**  
 
@@ -70,7 +71,7 @@ Alternative ways to <strong>bold text</strong>
 <br>
 <!-- -------------------------- Italic -------------------------- -->
 
-## 2.2) Italic
+## 2.2 | Italic
 
 *Italic Text Style*  
 
@@ -87,7 +88,7 @@ Alternative ways to <em>italic text</em>
 <br>
 <!-- -------------------------- Bold and Italic -------------------------- -->
 
-## 2.3) Bold and Italic
+## 2.3 | Bold and Italic
 
 ***Bold and Italic Text Style***
 
@@ -104,7 +105,7 @@ Alternative ways to <strong><em>bold and italic text</em></strong>
 <br>
 <!-- -------------------------- Strikethrough -------------------------- -->
 
-## 2.4) Strikethrough
+## 2.4 | Strikethrough
 
 ~~Strikethrough Text~~
 
@@ -121,7 +122,7 @@ Alternative ways to <strike>strikethrough text</strike>
 <br>
 <!-- -------------------------- Bold, Italic and Strikethrough -------------------------- -->
 
-## 4) Bold, Italic and Strikethrough
+## 2.5 | Bold, Italic and Strikethrough
 
 ***~~Bold, Italic and Strikethrough Text~~***
 
@@ -131,7 +132,7 @@ Alternative ways to <strike>strikethrough text</strike>
 <br>
 <!-- -------------------------- Underlined -------------------------- -->
 
-## 2.5) Underlined
+## 2.6 | Underlined
 
 <ins>Underlined Text Style</ins>
 
@@ -141,7 +142,7 @@ Alternative ways to <strike>strikethrough text</strike>
 <br>
 <!-- -------------------------- Boxed -------------------------- -->
 
-## 2.6) Boxed
+## 2.7 | Boxed
 
 <table><tr><td>Boxed Text Style</td></tr></table>
 
@@ -151,7 +152,7 @@ Alternative ways to <strike>strikethrough text</strike>
 <br>
 <!-- -------------------------- Subscript & Superscript -------------------------- -->
 
-## 2.7) Subscript & Superscript
+## 2.8 | Subscript & Superscript
 
 This is the   <sub>Subscript</sub>   text style  
 log<sub>2</sub>(x)
@@ -172,7 +173,7 @@ This is the <sup>Superscript</sup> text style
 <br>
 <!-- -------------------------- Monospaced -------------------------- -->
 
-## 2.8) Monospaced
+## 2.9 | Monospaced
 
 This is the normal text style  
 <samp>This is the Monospaced text style</samp> 
@@ -189,7 +190,9 @@ ___
 
 # 3 | Lists
 
-## 3.1) Ordered 
+<!-- -------------------------- Ordered -------------------------- -->
+
+## 3.1 | Ordered 
 
 1. First level - Item one
 2. First level - Item two
@@ -229,8 +232,9 @@ ___
     1. Second level
 ```
 <br>
+<!-- -------------------------- Unordered -------------------------- -->
 
-## 3.2) Unordered
+## 3.2 | Unordered
 
 - Item one
 - Item two
@@ -273,9 +277,11 @@ Alternative ways
 <br>
 
 ___
-<br>
 
-### Links
+<br>
+<!-- -------------------------|-| Links |-|-------------------------- -->
+
+# 4 | Links
 
 ```git
 * [Link with more info with various formatting options](https://docs.github.com/en/github/writing-on-github "more info")
