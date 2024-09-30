@@ -333,7 +333,7 @@ GitHub : [Login](https://github.com/login "Sign in to GitHub! Click here") : Let
 <br>
 
 
-## 4.4 | Links to the URLs in a repository
+## 4.4 | Repository Links \( ./ )
 
 [Example Document](/src/example.md)
 
@@ -358,7 +358,7 @@ GitHub : [Login](https://github.com/login "Sign in to GitHub! Click here") : Let
 ```
 <br>
 
-## 4.5 | Footnote
+## 4.5 | Footnote \[ ^1 ]
 
 Here is a simple footnote[^1]. Some other important footnote.[^2]
 
@@ -373,7 +373,7 @@ Here is a simple footnote[^1]. Some other important footnote.[^2]
 ```
 <br>
 
-## 4.6 | Reference \[][]
+## 4.6 | Reference \[ ][ ]
 
 [GitHub : Let's build from here][github-link] <br>
 [ Hi, sign in to GitHub][Login link]
