@@ -10,7 +10,7 @@ It’s commonly applied in Gists, comments, and files with .md or .markdown exte
 <br>
 
 ___
-
+<!-- -------------------------|-| Headings |-|-------------------------- -->
 # Headings
 
 # H1
@@ -48,8 +48,11 @@ H2
 ```
 ___
 <br>
+<!-- -------------------------|-| Text styles |-|-------------------------- -->
 
 # Text styles
+<!-- -------------------------- Bold -------------------------- -->
+
 ## 1) Bold
 
 **Bold Text Style**  
@@ -64,6 +67,7 @@ Alternative ways to __bold text__
 Alternative ways to <strong>bold text</strong>
 ```
 <br>
+<!-- -------------------------- Italic -------------------------- -->
 
 ## 2) Italic
 
@@ -79,6 +83,7 @@ Alternative ways to _italic text_
 Alternative ways to <em>italic text</em>
 ```
 <br>
+<!-- -------------------------- Bold and Italic -------------------------- -->
 
 ## 3) Bold and Italic
 ***Bold and Italic Text Style***
