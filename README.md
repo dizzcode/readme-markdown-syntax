@@ -283,6 +283,56 @@ ___
 
 # 4 | Links
 
+<!-- -------------------------- Basic types -------------------------- -->
+
+## 4.1 | Basic types
+
+- Auto link <br>
+
+Web   : https://www.google.com
+
+Email : example@example.com
+
+
+```md
+Web   : https://www.google.com
+Email : example@example.com
+```
+<br>
+<br>
+
+- Enclosed link <> <br>
+
+GitHub : Let's build from here · <https://github.com>
+
+```md
+GitHub : Let's build from here · <https://github.com>
+```
+
+<!-- -------------------------- Link Label -------------------------- -->
+
+## 4.2 | Link Label \[ ]( )
+
+[GitHub](https://github.com) : Let's build from here <br>
+Hi, [sign in](https://github.com/login) to GitHub
+
+```md
+[GitHub](https://github.com) : Let's build from here
+Hi, [sign in](https://github.com/login) to GitHub
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```git
 * [Link with more info with various formatting options](https://docs.github.com/en/github/writing-on-github "more info")
 * https://www.google.com/
