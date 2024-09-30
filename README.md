@@ -323,15 +323,30 @@ Hi, [sign in](https://github.com/login) to GitHub
 Hi, [sign in](https://github.com/login) to GitHub
 ```
 
+<br>
+<br>
+
+## 4.3 | Links to the URLs in a repository
+
+[Example document](/src/example.md)
+
+```md
+[Example document](/src/example.md)
+```
+
+<br>
+
+[example](./src)
+
+```md
+[example](./src)
+```
 
 
 
 
-
-
-
-
-
+#
+#
 
 
 
@@ -359,19 +374,6 @@ e.g. put on bottom:
 [GitHubLink]:https://github.com/darsaveli
 ```
 
-### Links to the URLs in a repository
-
-```git
-[Example document](/example/example.md)
-```
-
-[Example document](/example/example.md)
-
-```git
-[example](./example)
-```
-
-[example](./example)
 
 ___
 
