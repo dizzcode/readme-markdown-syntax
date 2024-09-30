@@ -299,7 +299,6 @@ Web   : https://www.google.com
 Email : example@example.com
 ```
 <br>
-<br>
 
 - Enclosed link <> <br>
 
@@ -309,7 +308,6 @@ GitHub : Let's build from here · <https://github.com>
 GitHub : Let's build from here · <https://github.com>
 ```
 
-<br>
 <br>
 <!-- -------------------------- Link Label -------------------------- -->
 
@@ -324,22 +322,21 @@ Hi, [sign in](https://github.com/login) to GitHub
 ```
 
 <br>
-<br>
 
 ## 4.3 | Links to the URLs in a repository
 
-[Example document](/src/example.md)
+[Example Document](/src/example.md)
 
 ```md
-[Example document](/src/example.md)
+[Example Document](/src/example.md)
 ```
 
 <br>
 
-[example](./src)
+[SRC Directory](./src)
 
 ```md
-[example](./src)
+[SRC Directory](./src)
 ```
 
 
