@@ -487,6 +487,7 @@ Here is a simple footnote[^1]. Some other important footnote.[^2]
 ```
 
 <br>
+<br>
 
 <a 
   href='https://github.com' 
