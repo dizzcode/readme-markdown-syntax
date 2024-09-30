@@ -1,34 +1,53 @@
 <h1 align="center">Readme Markdown Syntax Guide</h1>
 
-- **Markdown is a simple text formatting tool.**
-- Commonly used on platforms like GitHub, GitLab, and Bitbucket.
-- Applied in Gists, comments, and files with .md or .markdown extensions.
-- Widely used for content writing on websites and blog posts.
-- Popular in documentation and installation guides within project directories.
-- The readme.md file is often used as a file descriptor in repositories, providing key project information.
+**Markdown is a simple text formatting tool, widely used on platforms such as GitHub, GitLab, and Bitbucket. In repositories, the readme.md file serves as a file descriptor, offering essential project details.**
 
+It’s commonly applied in Gists, comments, and files with .md or .markdown extensions. Markdown is also popular for content writing on websites and blogs, as well as for creating documentation and installation guides within project directories.
+
+- [Headings](#headings)
+- [Text styles](#text-styles)
+
+
+#
+# Headings
 ___
 
-### Headers
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
 
 ```git
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
 ```
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+Alternative ways
+```md
+<h1>H1</h1>
+<h2>H2</h2>
+<h3>H3</h3>
+<h4>H4</h4>
+<h5>H5</h5>
+<h6>H6</h6>
+```
 
+```md
+H1
+=
+
+H2
+-
+```
 ___
 
+# Text styles
 ### Font
 
 ```git
