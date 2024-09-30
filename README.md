@@ -107,9 +107,9 @@ Alternative ways to <strong><em>bold and italic text</em></strong>
 ```md
 ~~Strikethrough Text~~
 ```
-<pre>
+
 Alternative ways to <strike>strikethrough text</strike>
-</pre>
+
 
 ```md
 Alternative ways to <strike>strikethrough text</strike>
