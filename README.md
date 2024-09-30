@@ -86,6 +86,7 @@ Alternative ways to <em>italic text</em>
 <!-- -------------------------- Bold and Italic -------------------------- -->
 
 ## 3) Bold and Italic
+
 ***Bold and Italic Text Style***
 ```md
 ***Bold and Italic Text Style***
@@ -97,6 +98,23 @@ Alternative ways to **_bold and italic text_**
 Alternative ways to **_bold and italic text_** 
 Alternative ways to <strong><em>bold and italic text</em></strong>
 ```
+<br>
+<!-- -------------------------- Strike-through -------------------------- -->
+
+## 4) Strike-through
+
+~~Strikethrough Text~~
+```md
+~~Strikethrough Text~~
+```
+<pre>
+Alternative ways to <strike>strikethrough text</strike>
+</pre>
+
+```md
+Alternative ways to <strike>strikethrough text</strike>
+```
+<br>
 
 *Italics* <br>
 _This will also be italic_<br>
