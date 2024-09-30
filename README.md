@@ -376,7 +376,7 @@ Here is a simple footnote[^1]. Some other important footnote.[^2]
 ## 4.6 | Reference \[ ][ ]
 
 [GitHub : Let's build from here][github-link] <br>
-[ Hi, sign in to GitHub][Login link]
+[Hello there, sign in to GitHub][Login link]
 <br>
 
 [github-link]: https://github.com
@@ -386,7 +386,7 @@ Here is a simple footnote[^1]. Some other important footnote.[^2]
 
 ```md
 [GitHub : Let's build from here][github-link]
-[ Hi, sign in to GitHub][Login link]
+[Hello there, sign in to GitHub][Login link]
 
 [github-link]: https://github.com
 [Login link]: https://github.com/login
