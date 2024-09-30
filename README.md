@@ -533,7 +533,6 @@ Here is a simple footnote[^1]. Some other important footnote.[^2]
     src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/image_file.png" 
     width="128" 
     height="128" 
-    border="5"
 />
 </p>
 
@@ -543,10 +542,54 @@ Here is a simple footnote[^1]. Some other important footnote.[^2]
     src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/image_file.png" 
     width="128" 
     height="128" 
-    border="5"
 />
 </p>
 ```
+##
+
+### Center
+
+<p align="center">
+<img 
+    src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/image_file.png" 
+    width="128" 
+    height="128" 
+/>
+</p>
+
+```md
+<p align="center">
+<img 
+    src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/image_file.png" 
+    width="128" 
+    height="128" 
+/>
+</p>
+```
+##
+
+### Right
+
+<p align="right">
+<img 
+    src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/image_file.png" 
+    width="128" 
+    height="128" 
+/>
+</p>
+
+```md
+<p align="right">
+<img 
+    src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/image_file.png" 
+    width="128" 
+    height="128" 
+/>
+</p>
+```
+##
+
+
 
 <br>
 <br>
