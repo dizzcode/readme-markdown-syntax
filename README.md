@@ -38,9 +38,9 @@ Alternative ways
 <h4>H4</h4>
 <h5>H5</h5>
 <h6>H6</h6>
+```
 
-OR
-
+```md
 H1
 =
 H2
