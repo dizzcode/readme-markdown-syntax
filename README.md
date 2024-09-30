@@ -206,19 +206,6 @@ ___
 ```
 <br>
 
-### Second level
-
-1. First level
-   1. Second level
-   2. Second level
-<br>
-
-```md
-1. First level
-   1. Second level
-   2. Second level
-```
-<br>
 
 ### Multi level
 
@@ -289,41 +276,10 @@ Alternative ways
   - Second level
 ```
 
-```git
-1. First
-2. jhg
-   1. Second
-   2. jhg
-      1. Third
-      2. jhg
-```
-
-
-
-
-```git
-* Item 1
-* Item 2
-  * Item 1a
-  * Item 2a
-     * Item 1b
-     * Item 2b
-```
-
-* Item 1
-* Item 2
-  * Item 1a
-  * Item 2a
-     * Item 1b
-     * Item 2b
-
-OR
-`- Item 1`
-- Item 1
-
-
-
+<br>
 ___
+
+<br>
 
 ### Links
 
