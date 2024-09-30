@@ -139,9 +139,16 @@ Alternative ways to <strike>strikethrough text</strike>
 <ins>Underlined Text Style</ins>
 ```
 <br>
-<!-- -------------------------- Underlined -------------------------- -->
+<!-- -------------------------- Boxed -------------------------- -->
 
+## 6) Boxed
 
+<table><tr><td>Boxed Text Style</td></tr></table>
+
+```md
+<table><tr><td>Boxed Text Style</td></tr></table>
+```
+<br>
 
 
 
