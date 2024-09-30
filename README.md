@@ -191,12 +191,9 @@ ___
 
 ## 1) Ordered 
 
-### First level
-
 1. First level - Item one
 2. First level - Item two
 3. First level - Item three
-<br>
 
 ```md
 1. First level - Item one
@@ -234,8 +231,6 @@ ___
 <br>
 
 ## 2) Unordered
-
-### First level
 
 - Item one
 - Item two
