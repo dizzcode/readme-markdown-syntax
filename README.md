@@ -174,6 +174,7 @@ This is the <sup>Superscript</sup> text style
 
 ## 8) Monospaced
 
+This is the normal text style  
 <samp>This is the Monospaced text style</samp> 
 
 ```md
