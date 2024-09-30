@@ -149,7 +149,27 @@ Alternative ways to <strike>strikethrough text</strike>
 <table><tr><td>Boxed Text Style</td></tr></table>
 ```
 <br>
+<!-- -------------------------- Subscript & Superscript -------------------------- -->
 
+## 7) Subscript & Superscript
+
+This is <sub>Subscript</sub> Text Style  
+log<sub>2</sub>(x)
+
+```md
+This is <sub>Subscript</sub> Text Style  
+log<sub>2</sub>(x)
+```
+<br>
+
+This is <sup>Superscript</sup> Text Style  
+2 <sup>3</sup> = 8
+
+```md
+This is <sup>Superscript</sup> Text Style  
+2 <sup>3</sup> = 8
+```
+<br>
 
 
 ___
