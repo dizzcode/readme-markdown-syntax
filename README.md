@@ -184,6 +184,8 @@ This is the normal text style
 <br>
 
 ___
+<br>
+
 <!-- -------------------------|-| Lists |-|-------------------------- -->
 
 # Lists
@@ -245,8 +247,47 @@ ___
 ```
 <br>
 
-##
+## 2) Unordered
 
+### First level
+
+- Item one
+- Item two
+
+```md
+- Item one
+- Item two
+```
+
+Alternative ways 
+
+
+```md
+* Item one
+* Item two
+
++ Item one
++ Item two
+```
+<br>
+
+### Multi level
+
+- First level
+  - Second level
+    - Third level
+      - Fourth level
+- First level
+  - Second level
+ 
+```md
+- First level
+  - Second level
+    - Third level
+      - Fourth level
+- First level
+  - Second level
+```
 
 ```git
 1. First
