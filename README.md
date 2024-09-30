@@ -60,7 +60,6 @@ ___
 Alternative ways to **bold text** 
 
 ```md
-Alternative ways to **bold text**
 Alternative ways to __bold text__
 Alternative ways to <strong>bold text</strong>
 ```
@@ -76,9 +75,22 @@ Alternative ways to <strong>bold text</strong>
 Alternative ways to *italic text*   
 
 ```md
-Alternative ways to **italic text**
 Alternative ways to _italic text_
 Alternative ways to <em>italic text</em>
+```
+<br>
+
+## 3) Bold and Italic
+***Bold and Italic Text Style***
+```md
+***Bold and Italic Text Style***
+```
+
+Alternative ways to **_bold and italic text_**  
+
+```md
+Alternative ways to **_bold and italic text_** 
+Alternative ways to <strong><em>bold and italic text</em></strong>
 ```
 
 *Italics* <br>
