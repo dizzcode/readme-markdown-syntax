@@ -7,10 +7,11 @@ It’s commonly applied in Gists, comments, and files with .md or .markdown exte
 - [Headings](#headings)
 - [Text styles](#text-styles)
 
+<br>
 
-#
-# Headings
 ___
+
+# Headings
 
 # H1
 ## H2
@@ -46,19 +47,38 @@ H2
 -
 ```
 ___
+<br>
 
 # Text styles
-### Font
+## 1) Bold
 
-```git
-*Italics*
-_This will also be italic_
-**Bold text**
-__This will also be bold__
-***Bold and Italics***
-_You **can** combine them_
-~~Striked Text~~
-***~~Italic, bold, and strikethrough1~~***	
+**Bold Text Style**  
+```md
+**Bold Text Style**
+```
+
+Alternative ways to **bold text** 
+
+```md
+Alternative ways to **bold text**
+Alternative ways to __bold text__
+Alternative ways to <strong>bold text</strong>
+```
+<br>
+
+## 2) Italic
+
+*Italic Text Style*  
+```md
+*Italic Text Style*
+```
+
+Alternative ways to *italic text*   
+
+```md
+Alternative ways to **italic text**
+Alternative ways to _italic text_
+Alternative ways to <em>italic text</em>
 ```
 
 *Italics* <br>
