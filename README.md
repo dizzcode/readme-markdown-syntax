@@ -153,16 +153,16 @@ Alternative ways to <strike>strikethrough text</strike>
 
 ## 7) Subscript & Superscript
 
-This is <sub>Subscript</sub> text style  
+This is the  <sub>Subscript</sub>  text style  
 log<sub>2</sub>(x)
 
 ```md
-This is <sub>Subscript</sub> text style  
+This is the <sub>Subscript</sub> text style  
 log<sub>2</sub>(x)
 ```
 <br>
 
-This is the <sup>Superscript</sup> text style  
+This is the  <sup>Superscript</sup>  text style  
 2 <sup>3</sup> = 8
 
 ```md
