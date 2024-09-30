@@ -407,6 +407,11 @@ Here is a simple footnote[^1]. Some other important footnote.[^2]
 
 ![Github Logo](https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Github-128.png "Title text")
 
+```md
+![Github Logo](https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Github-128.png "Title text")
+```
+
+
 ## 5.2 | Image with options
 
 #
