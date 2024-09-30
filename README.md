@@ -486,6 +486,8 @@ Here is a simple footnote[^1]. Some other important footnote.[^2]
 [![GitHub](https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__github_-128.png)](https://github.com)
 ```
 
+<br>
+
 <a 
   href='https://github.com' 
   target='_blank'> 
