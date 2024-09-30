@@ -115,15 +115,17 @@ Alternative ways to <strike>strikethrough text</strike>
 Alternative ways to <strike>strikethrough text</strike>
 ```
 <br>
+<!-- -------------------------- Bold, Italic and Strikethrough -------------------------- -->
 
-*Italics* <br>
-_This will also be italic_<br>
-**Bold Text**<br>
-__This will also be bold__<br>
-***Bold and Italics***<br>
-_You **can** combine them_<br>
-~~Striked Text~~<br>
-***~~Italic, bold, and strikethrough1~~***	
+## 4) Bold, Italic and Strikethrough
+
+***~~Bold, Italic and Strikethrough Text~~***
+```md
+***~~Bold, Italic and Strikethrough Text~~***
+```
+<br>
+
+
 ___
 
 ### Lists
