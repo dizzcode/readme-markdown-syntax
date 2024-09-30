@@ -170,7 +170,16 @@ This is the <sup>Superscript</sup> text style
 2 <sup>3</sup> = 8
 ```
 <br>
+<!-- -------------------------- Monospaced -------------------------- -->
 
+## 8) Monospaced
+
+<samp>This is the Monospaced text style</samp> 
+
+```md
+<samp>This is the Monospaced text style</samp> 
+```
+<br>
 
 ___
 
