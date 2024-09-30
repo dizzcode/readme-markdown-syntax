@@ -8,6 +8,7 @@ It’s commonly applied in Gists, comments, and files with .md or .markdown exte
 - [2 | Text styles](#2--text-styles)
 - [3 | Lists](#3--lists)
 - [4 | Links](#4--links)
+- [5 | Images](#5--images)
 
 <br>
 
@@ -392,6 +393,21 @@ Here is a simple footnote[^1]. Some other important footnote.[^2]
 [Login link]: https://github.com/login
 ```
 <br>
+
+<br>
+<!-- -------------------------|-| Links |-|-------------------------- -->
+
+# 5 | Images
+
+## 5.1 | Basic Image 
+<kbd> !\[Alternative-text](URL "Title-text") </kbd>
+
+*Alternative text and title text are optional*
+##
+
+![Github Logo](https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Github-128.png "Title text")
+
+## 5.2 | Image with options
 
 #
 #
