@@ -412,8 +412,9 @@ Here is a simple footnote[^1]. Some other important footnote.[^2]
 ```
 
 
-## 5.2 | Image with options
+## 5.2 | \<img>: The Image Embed element
 
+### Image
 
 <img 
     src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Github-128.png" 
@@ -430,6 +431,50 @@ Here is a simple footnote[^1]. Some other important footnote.[^2]
     border="5"
 />
 ```
+<br>
+
+### GIF
+
+<img 
+    src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RuamM2eW13ZnNjZ3R4aGNubGp3OHljN2I5cTlsZndkanJqc3g5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" 
+    width="128" 
+    height="148" 
+/>
+
+
+```md
+<img 
+    src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RuamM2eW13ZnNjZ3R4aGNubGp3OHljN2I5cTlsZndkanJqc3g5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" 
+    width="72" 
+    height="72" 
+/>
+```
+
+<br>
+
+### Icons
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+<img 
+    src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" 
+    width="88" 
+    height="30" 
+/>
+
+```md
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+<img 
+    src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" 
+    width="88" 
+    height="30" 
+/>
+```
+
+
+
+<br>
 
 #
 #
