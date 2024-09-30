@@ -56,6 +56,7 @@ ___
 ## 1) Bold
 
 **Bold Text Style**  
+
 ```md
 **Bold Text Style**
 ```
@@ -72,6 +73,7 @@ Alternative ways to <strong>bold text</strong>
 ## 2) Italic
 
 *Italic Text Style*  
+
 ```md
 *Italic Text Style*
 ```
@@ -88,6 +90,7 @@ Alternative ways to <em>italic text</em>
 ## 3) Bold and Italic
 
 ***Bold and Italic Text Style***
+
 ```md
 ***Bold and Italic Text Style***
 ```
@@ -99,11 +102,12 @@ Alternative ways to **_bold and italic text_**
 Alternative ways to <strong><em>bold and italic text</em></strong>
 ```
 <br>
-<!-- -------------------------- Strike-through -------------------------- -->
+<!-- -------------------------- Strikethrough -------------------------- -->
 
-## 4) Strike-through
+## 4) Strikethrough
 
 ~~Strikethrough Text~~
+
 ```md
 ~~Strikethrough Text~~
 ```
@@ -120,10 +124,25 @@ Alternative ways to <strike>strikethrough text</strike>
 ## 4) Bold, Italic and Strikethrough
 
 ***~~Bold, Italic and Strikethrough Text~~***
+
 ```md
 ***~~Bold, Italic and Strikethrough Text~~***
 ```
 <br>
+<!-- -------------------------- Underlined -------------------------- -->
+
+## 5) Underlined
+
+<ins>Underlined Text Style</ins>
+
+```md
+<ins>Underlined Text Style</ins>
+```
+<br>
+<!-- -------------------------- Underlined -------------------------- -->
+
+
+
 
 
 ___
