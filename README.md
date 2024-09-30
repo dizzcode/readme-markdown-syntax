@@ -414,6 +414,23 @@ Here is a simple footnote[^1]. Some other important footnote.[^2]
 
 ## 5.2 | Image with options
 
+
+<img 
+    src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Github-128.png" 
+    width="72" 
+    height="72" 
+    border="5"
+/>
+
+```md
+<img 
+    src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Github-128.png" 
+    width="72" 
+    height="72" 
+    border="5"
+/>
+```
+
 #
 #
 
