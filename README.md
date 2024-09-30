@@ -417,17 +417,17 @@ Here is a simple footnote[^1]. Some other important footnote.[^2]
 ### Image
 
 <img 
-    src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Github-128.png" 
-    width="72" 
-    height="72" 
+    src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/image_file.png" 
+    width="128" 
+    height="128" 
     border="5"
 />
 
 ```md
 <img 
-    src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Github-128.png" 
-    width="72" 
-    height="72" 
+    src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/image_file.png" 
+    width="128" 
+    height="128" 
     border="5"
 />
 ```
