@@ -323,7 +323,7 @@ Hi, [sign in](https://github.com/login) to GitHub
 
 <br>
 
-## 4.3 | Link Label \[ ]( |"")
+## 4.3 | Hover \[ ]( | "")
 
 GitHub : [Login](https://github.com/login "Sign in to GitHub! Click here") : Let's build from here <br>
 
@@ -356,11 +356,42 @@ GitHub : [Login](https://github.com/login "Sign in to GitHub! Click here") : Let
 ```md
 [SRC Directory](./src)
 ```
+<br>
 
+## 4.5 | Footnote
 
+Here is a simple footnote[^1]. Some other important footnote.[^2]
 
+[^1]: My reference 1
+[^2]: My reference 2
 
+```md
+Here is a simple footnote[^1]. Some other important footnote.[^2]
 
+[^1]: My reference 1
+[^2]: My reference 2
+```
+<br>
+
+## 4.6 | Reference \[][]
+
+[GitHub : Let's build from here][github-link] <br>
+[ Hi, sign in to GitHub][Login link]
+<br>
+
+[github-link]: https://github.com
+[Login link]: https://github.com/login
+
+<br>
+
+```md
+[GitHub : Let's build from here][github-link]
+[ Hi, sign in to GitHub][Login link]
+
+[github-link]: https://github.com
+[Login link]: https://github.com/login
+```
+<br>
 
 #
 #
