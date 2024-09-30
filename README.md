@@ -4,9 +4,9 @@
 
 It’s commonly applied in Gists, comments, and files with .md or .markdown extensions. Markdown is also popular for content writing on websites and blogs, as well as for creating documentation and installation guides within project directories.
 
-- [Headings](#headings)
-- [Text styles](#text-styles)
-- [Lists](#lists)
+- [1 | Headings](#headings)
+- [2 | Text styles](#text-styles)
+- [3 | Lists](#lists)
 
 <br>
 
@@ -53,7 +53,7 @@ ___
 # Text styles
 <!-- -------------------------- Bold -------------------------- -->
 
-## 1) Bold
+## 2.1) Bold
 
 **Bold Text Style**  
 
@@ -70,7 +70,7 @@ Alternative ways to <strong>bold text</strong>
 <br>
 <!-- -------------------------- Italic -------------------------- -->
 
-## 2) Italic
+## 2.2) Italic
 
 *Italic Text Style*  
 
@@ -87,7 +87,7 @@ Alternative ways to <em>italic text</em>
 <br>
 <!-- -------------------------- Bold and Italic -------------------------- -->
 
-## 3) Bold and Italic
+## 2.3) Bold and Italic
 
 ***Bold and Italic Text Style***
 
@@ -104,7 +104,7 @@ Alternative ways to <strong><em>bold and italic text</em></strong>
 <br>
 <!-- -------------------------- Strikethrough -------------------------- -->
 
-## 4) Strikethrough
+## 2.4) Strikethrough
 
 ~~Strikethrough Text~~
 
@@ -131,7 +131,7 @@ Alternative ways to <strike>strikethrough text</strike>
 <br>
 <!-- -------------------------- Underlined -------------------------- -->
 
-## 5) Underlined
+## 2.5) Underlined
 
 <ins>Underlined Text Style</ins>
 
@@ -141,7 +141,7 @@ Alternative ways to <strike>strikethrough text</strike>
 <br>
 <!-- -------------------------- Boxed -------------------------- -->
 
-## 6) Boxed
+## 2.6) Boxed
 
 <table><tr><td>Boxed Text Style</td></tr></table>
 
@@ -151,7 +151,7 @@ Alternative ways to <strike>strikethrough text</strike>
 <br>
 <!-- -------------------------- Subscript & Superscript -------------------------- -->
 
-## 7) Subscript & Superscript
+## 2.7) Subscript & Superscript
 
 This is the   <sub>Subscript</sub>   text style  
 log<sub>2</sub>(x)
@@ -172,7 +172,7 @@ This is the <sup>Superscript</sup> text style
 <br>
 <!-- -------------------------- Monospaced -------------------------- -->
 
-## 8) Monospaced
+## 2.8) Monospaced
 
 This is the normal text style  
 <samp>This is the Monospaced text style</samp> 
@@ -189,7 +189,7 @@ ___
 
 # Lists
 
-## 1) Ordered 
+## 3.1) Ordered 
 
 1. First level - Item one
 2. First level - Item two
@@ -230,7 +230,7 @@ ___
 ```
 <br>
 
-## 2) Unordered
+## 3.2) Unordered
 
 - Item one
 - Item two
