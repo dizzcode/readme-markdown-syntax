@@ -142,7 +142,13 @@ Alternative ways to <em>italic text</em>
 
 ## 2.3 ‣ Bold and Italic
 
+`Preview :`
+
 ***Bold and Italic Text Style***
+
+<br>
+
+` Syntax : `
 
 ```md
 ***Bold and Italic Text Style***
@@ -159,7 +165,13 @@ Alternative ways to <strong><em>bold and italic text</em></strong>
 
 ## 2.4 ‣ Strikethrough
 
+`Preview :`
+
 ~~Strikethrough Text~~
+
+<br>
+
+` Syntax : `
 
 ```md
 ~~Strikethrough Text~~
@@ -176,7 +188,13 @@ Alternative ways to <strike>strikethrough text</strike>
 
 ## 2.5 ‣ Bold, Italic and Strikethrough
 
+`Preview :`
+
 ***~~Bold, Italic and Strikethrough Text~~***
+
+<br>
+
+` Syntax : `
 
 ```md
 ***~~Bold, Italic and Strikethrough Text~~***
@@ -186,7 +204,13 @@ Alternative ways to <strike>strikethrough text</strike>
 
 ## 2.6 ‣ Underlined
 
+`Preview :`
+
 <ins>Underlined Text Style</ins>
+
+<br>
+
+` Syntax : `
 
 ```md
 <ins>Underlined Text Style</ins>
@@ -196,27 +220,49 @@ Alternative ways to <strike>strikethrough text</strike>
 
 ## 2.7 ‣ Boxed
 
+`Preview :`
+
 <table><tr><td>Boxed Text Style</td></tr></table>
+
+<br>
+
+` Syntax : `
 
 ```md
 <table><tr><td>Boxed Text Style</td></tr></table>
 ```
 <br>
-<!-- -------------------------- Subscript & Superscript -------------------------- -->
+<!-- -------------------------- Subscript -------------------------- -->
 
 ## 2.8 ‣ Subscript & Superscript
 
+`Preview :`
+
 This is the   <sub>Subscript</sub>   text style  
 log<sub>2</sub>(x)
+
+<br>
+
+` Syntax : `
 
 ```md
 This is the <sub>Subscript</sub> text style  
 log<sub>2</sub>(x)
 ```
+
 <br>
+<!-- -------------------------- Superscript -------------------------- -->
+
+## 2.9 ‣ Superscript
+
+`Preview :`
 
 This is the   <sup>Superscript</sup>   text style  
 2 <sup>3</sup> = 8
+
+<br>
+
+` Syntax : `
 
 ```md
 This is the <sup>Superscript</sup> text style  
@@ -225,10 +271,16 @@ This is the <sup>Superscript</sup> text style
 <br>
 <!-- -------------------------- Monospaced -------------------------- -->
 
-## 2.9 ‣ Monospaced
+## 2.10 ‣ Monospaced
+
+`Preview :`
 
 This is the normal text style  
 <samp>This is the Monospaced text style</samp> 
+
+<br>
+
+` Syntax : `
 
 ```md
 <samp>This is the Monospaced text style</samp> 
