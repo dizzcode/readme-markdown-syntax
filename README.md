@@ -955,7 +955,56 @@ This is a <br>normal text
 ```md
 This is a <br>normal text
 ```
+
+
 ___
+
+<br>
+<!-- -------------------------|-| Line Settings  |-|-------------------------- -->
+
+# 10 | Mathematical Expressions
+
+You can use LaTeX-style syntax to render math expressions in Markdown, allowing you to present mathematical content both inline (using $ delimiters) and as blocks (using $$ delimiters)
+
+### 10.1 | Inline expressions
+To include a math expression inline, simply place the expression between two dollar ( `$` ) signs.  
+Here’s a basic example:
+
+$\sqrt{5x}+(25+x)^2$
+
+Additionally, you can use the following expression to demonstrate inline math:
+
+
+*Preview:*  
+This sentence uses `$` delimiters to show math inline:  
+$\frac{2a+b}{c} = d$
+
+**Syntax:**
+```md
+This sentence uses `$` delimiters to show math inline:  
+$\frac{2a+b}{c} = d$
+```
+<br>
+
+##
+### 10.2 | Block Expressions
+
+To display a mathematical expression as a multiline block, start a new line and enclose the expression with two dollar symbols $$.  
+This format is particularly useful for complex equations or when you want to emphasize the math content.
+
+Here’s an example of a block expression:
+
+*Preview:*  
+$$
+\int_{a}^{b} f(x) \, dx = F(b) - F(a)
+$$
+
+**Syntax:**
+```md
+$$
+\int_{a}^{b} f(x) \, dx = F(b) - F(a)
+$$
+```
 
 
 #
