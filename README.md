@@ -1414,7 +1414,7 @@ ___
 
 ### 11.1 ‣ CheckBox
 
-*Preview:* 
+`Preview :` 
 <br>
 
 * [ ] Checkbox 1
@@ -1425,7 +1425,7 @@ ___
 
 <br>
 
-**Syntax:**
+` Syntax : `
 <br>
 
 ```md
@@ -1443,7 +1443,7 @@ ___
 
 <br>
 
-*Preview:* 
+`Preview :` 
 <br>
 
 ```mermaid
@@ -1453,7 +1453,7 @@ pie
     "Parrots" : 50
 ```
 
-**Syntax:**
+` Syntax : `
 <br>
 
 ````md
@@ -1474,11 +1474,11 @@ pie
 To get dynamically generated GitHub stats on your READMEs, check out [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) !
 
 
-*Preview:*
+`Preview :` 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dizzcode)](https://github.com/dizzcode/github-readme-stats)
 
-**Syntax:**
+` Syntax : `
 <br>
 **Change the `?username= value` to your GitHub username.**
 ````md
@@ -1486,13 +1486,13 @@ To get dynamically generated GitHub stats on your READMEs, check out [GitHub Rea
 ````
 
 #
-*Preview:*
+`Preview :` 
 <br>  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dizzcode)](https://github.com/dizzcode)
 
 <br>  
 
-**Syntax:**
+` Syntax : `
 <br>
 **Change the `?username= value` to your GitHub username.**
 ````md
@@ -1504,11 +1504,11 @@ To get dynamically generated GitHub stats on your READMEs, check out [GitHub Rea
 ##
 ### 11.4 ‣ Buttons
 
-*Preview:* 
+`Preview :` 
 
 <kbd>[ GitHub Login ](https://github.com/login)</kbd>
 
-**Syntax:**
+` Syntax : `
 <br>
 
 ```md
@@ -1516,11 +1516,11 @@ To get dynamically generated GitHub stats on your READMEs, check out [GitHub Rea
 ```
 #
 
-*Preview:* 
+`Preview :` 
 
 <kbd>[<br>&nbsp;   🌘 GitHub Login ┈➤  &nbsp;<br><br>](https://github.com/login) </kbd>
 
-**Syntax:**
+` Syntax : `
 <br>
 
 ```md
