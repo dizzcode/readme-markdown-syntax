@@ -749,7 +749,7 @@ Using backticks( ` ) is a simple way to create tags for articles, such as <br>
 `GitHub` : Let's build from here - `any important text`
 ```
 
-
+##
 ### 8.2 | Emoji
 
 🌳 🐻 🍯 🌺
@@ -770,7 +770,7 @@ or you can use shortcode format
 
 For a comprehensive list of all supported emojis on GitHub, check out the [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
-
+##
 ### 8.3 | Quoting Text / Blockquotes
 
 
@@ -784,7 +784,8 @@ Difference
 <br>
 
 This is a normal text
-> Block quoted text
+> Block quoted text  
+
 This is a normal text
 
 ```git
