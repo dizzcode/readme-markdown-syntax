@@ -777,7 +777,7 @@ or you can use shortcode format
 For a comprehensive list of all supported emojis on GitHub, check out the [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 ##
-### 8.3 | Quoting Text / Blockquotes
+### 8.3 | Quoting Text / Blockquotes >
 
 
 > This is a block quoted text
@@ -787,6 +787,7 @@ For a comprehensive list of all supported emojis on GitHub, check out the [Emoji
 ```
 <br>
 Difference
+<br>
 <br>
 
 This is a normal text
