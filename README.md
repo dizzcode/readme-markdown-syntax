@@ -821,13 +821,73 @@ This is a normal text
 >>>>> Fifth level
 ```
 
-#
-#
+##
+### 8.5 | Multi-line text
+
+You can add either 2 spaces or 4 spaces at the end of a line before starting a new line to achieve an indented effect.
+
+*Preview:*  
+
+First level  
+Second level    
+Third level  
 
 
+
+**Syntax:**
+```md
+First level  
+Second level    
+Third level  
+```
+
+
+##
+### 8.6 | Anchor
+
+Each title in GitHub Flavored Markdown (GFM) serves as an anchor, similar to an HTML anchor (#). For example:
+#### NOTE : Keep in mind that all letters in the title are converted to lowercase.
+
+
+
+*Preview:*  
+
+[Back to contents](#contents)
+
+  
+**Syntax:**
+```md
+[Back to contents](#contents)
+```
+
+### 8.7 | Visible markdown characters
+ 
+To make special characters visible in Markdown, you can escape them using a backslash (\\). Here are some common examples:
+
+*Preview:*  
+
+\<br>
+
+  
+**Syntax:**
+```md
+\<br>
+```
+
+### 8.8 | Comments in Markdown
+
+You can add comments in Markdown using HTML-style comments:
+
+```md
+<!-- comment written in markdown -->
+```
+
+These comments will be invisible when viewing the README file.
+
+
+#
+#
 ___
-
-
 ___
 
 ### Tables
@@ -909,60 +969,18 @@ ___
 ```
 ___
 
-### Visible markdown characters
- 
-```git
-```git
- * __ <br> etc ```
-```
-___
-
-### Multi-line text
-
-    aaa,
-    sss,
-    ddd!
-
-Add 1 tab or 4 spaces at the beginning of several lines of text.
-
-OR
-
-Use three backticks:
-
-```
-asd,
-sfd,
-wer!
-```
-This syntax can also be used for code highlighting
 
 ___
 
-### Comments in Markdown
 
-```git
-<!-- comment written in markdown -->
-```
-They will be invisible on readme
+
+
+
 ___
 
-### Emoji
-```git
-:grinning:	or just place the emoji 😀
-```
-:grinning:	or just place the emoji 😀
 
-To see a list of every image Github supports, check out the [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+___
 
-
-### Anchor
-In fact, each title is an anchor, similar to the HTML anchor (`#`), e.g.
-
-|Syntax|Look like|
-|---|---|
-|`[Back to contents](#contents)`|[Back to contents](#contents)|
-
-Note that all the letters in the title are converted to **lowercase letters**.
 
 ___
 
