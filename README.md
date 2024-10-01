@@ -43,6 +43,7 @@ It’s commonly applied in Gists, comments, and files with .md or .markdown exte
     - <samp> Basic Table types ○ Table Alignment ○ Multi-line data ○ Nested Table ○ Table Styling ○  </samp>  
 
 <br>  
+
 ___
 
 <!-- ------------------------------------------------------------------ -->
@@ -92,6 +93,7 @@ H2
 
 <br>  
 ___
+
 ___
 
 <br>
@@ -298,6 +300,7 @@ This is the normal text style
 
 <br>  
 ___
+
 ___
 
 <br>
