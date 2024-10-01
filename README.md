@@ -34,13 +34,13 @@ It’s commonly applied in Gists, comments, and files with .md or .markdown exte
 9. [Line Settings](#9--line-settings)
    - <samp> Horizontal Line ○ Line break ○ </samp>  
 10. [Mathematical Expressions](#10--mathematical-expressions)
-   - <samp> Inline expressions ○ Block Expressions ○ </samp>  
+    - <samp> Inline expressions ○ Block Expressions ○ </samp>  
 11. [View components](#11--view-components)
-   - <samp> CheckBox ○ Pie Chart ○ Badges ○ Buttons ○ </samp>  
+    - <samp> CheckBox ○ Pie Chart ○ Badges ○ Buttons ○ </samp>  
 12. [Markdown Alerts](#12--markdown-alerts)
-   - <samp> NOTE ○ TIP ○ IMPORTANT ○ WARNING ○ CAUTION ○ </samp>  
+    - <samp> NOTE ○ TIP ○ IMPORTANT ○ WARNING ○ CAUTION ○ </samp>  
 13. [Tables](#13--tables)
-   - <samp> Basic Table types ○ Table Alignment ○ Multi-line data ○ Nested Table ○ Table Styling ○  </samp>  
+    - <samp> Basic Table types ○ Table Alignment ○ Multi-line data ○ Nested Table ○ Table Styling ○  </samp>  
 
 
 <br>
