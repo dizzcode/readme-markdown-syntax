@@ -1285,8 +1285,55 @@ Alternative ways
 ```
 
 <br>
+
+##
+### Alignment
+
+- `-`   Default 
+- `:-`  Align Left  
+- `:-:` Align Center
+- `-:`  Align Right
+
+
+*Preview:* 
+
+| Default | Left  | Center | Right |
+| - | :- | :-: | -: |
+| 1000000000000 | 1000000000000 | 1000000000000 | 1000000000000 |
+| 10001 | 10001 | 10001 | 10001 |
+| 20002 | 20002 | 20002 | 20002 |
+
+**Syntax:**
+
+```md
+| Default | Left  | Center | Right |
+| - | :- | :-: | -: |
+| 1000000000000 | 1000000000000 | 1000000000000 | 1000000000000 |
+| 10001 | 10001 | 10001 | 10001 |
+| 20002 | 20002 | 20002 | 20002 |
+```
+
 <br>
-___
+
+##
+### Multi lines
+
+*Preview:* 
+
+|Header 1|Header 2|Header 3|
+|---|---|---|
+| Data 1 | Data 2 <br> Data 3 <br> Data 4 | Data 5 |
+
+**Syntax:**
+
+```md
+|Header 1|Header 2|Header 3|
+|---|---|---|
+| Data 1 | Data 2 <br> Data 3 <br> Data 4 | Data 5 |
+```
+
+<br>
+
 ___
 ___
 
