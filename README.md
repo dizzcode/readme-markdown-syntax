@@ -1777,6 +1777,7 @@ Alternative ways
 
 ` Syntax : `
 
+```md
 <table>
 <tr>
 <th>Header 1</th>
@@ -1880,4 +1881,5 @@ Alternative ways
 ```
 
 <br>
+
 ___
