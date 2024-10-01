@@ -16,18 +16,31 @@ It’s commonly applied in Gists, comments, and files with .md or .markdown exte
 ## Contents
 
 1. [Headings](#1--headings)
+   - <samp> H1 to H6 tags </samp>  
 2. [Text styles](#2--text-styles)
+   - <samp> Bold | Italic | Strikethrough | Underlined | Subscript | Superscript | and more.. </samp>  
 3. [Lists](#3--lists)
+   - <samp> Ordered | Unordered </samp>  
 4. [Links](#4--links)
+   - <samp> Auto link | Link Label | Hover | Repository Links | Footnote | and more.. </samp>  
 5. [Images](#5--images)
+   - <samp> Basic tags | Image Embed element | GIF | Icons | Image with click action | </samp>  
 6. [Alignments](#6--alignments)
+   - <samp> Text Alignments | Image Alignments | </samp>  
 7. [Code Block](#7--code-block)
+   - <samp> Basic styles | Fenced code blocks | Diff Code block | </samp>  
 8. [Text Decoration](#8--text-decoration)
+   - <samp> Text Highlighting | Emoji | Blockquotes | Multi-line text | Anchor | Comments | and more.. </samp>  
 9. [Line Settings](#9--line-settings)
+   - <samp> Horizontal Line | Line break | </samp>  
 10. [Mathematical Expressions](#10--mathematical-expressions)
+   - <samp> Inline expressions | Block Expressions | </samp>  
 11. [View components](#11--view-components)
+   - <samp> CheckBox | Pie Chart | Badges | Buttons | </samp>  
 12. [Markdown Alerts](#12--markdown-alerts)
+   - <samp> NOTE | TIP | IMPORTANT | WARNING | CAUTION | </samp>  
 13. [Tables](#13--tables)
+   - <samp> Basic Table types | Table Alignment | Multi-line data | Nested Table | Table Styling |  </samp>  
 
 
 <br>
