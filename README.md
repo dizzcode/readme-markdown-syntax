@@ -1070,6 +1070,109 @@ ___
 <kbd>[<br>&nbsp;   🌘 GitHub Login ┈➤  &nbsp;<br><br>](https://github.com/login) </kbd>
 ```
 
+___
+
+<br>
+<!-- -------------------------|-| Markdown Alerts  |-|-------------------------- -->
+
+# 12 | Markdown Alerts
+
+Alerts are special features in Markdown used to highlight important information.  
+On GitHub, these alerts are shown with different colors and icons to help users quickly understand how important the content is.
+
+##
+### 12.1 | NOTE
+
+*Preview:* 
+
+> [!NOTE]
+> Essential details that users should not overlook, even when browsing quickly.
+
+<br>
+
+**Syntax:**
+
+```md
+> [!NOTE]
+> Essential details that users should not overlook, even when browsing quickly.
+```
+<br>
+
+##
+### 12.2 | TIP
+
+*Preview:* 
+
+> [!TIP]
+> Additional advice to aid users in achieving better outcomes.
+
+<br>
+
+**Syntax:**
+
+```md
+> [!TIP]
+> Additional advice to aid users in achieving better outcomes.
+```
+<br>
+
+##
+### 12.3 | IMPORTANT
+
+*Preview:* 
+
+> [!IMPORTANT]
+> Vital information required for users to attain success.
+
+<br>
+
+**Syntax:**
+
+```md
+> [!IMPORTANT]
+> Vital information required for users to attain success.
+```
+<br>
+
+
+##
+### 12.4 | WARNING
+
+*Preview:* 
+
+> [!WARNING]
+> Urgent content that requires immediate user focus due to possible risks.
+
+<br>
+
+**Syntax:**
+
+```md
+> [!WARNING]
+> Urgent content that requires immediate user focus due to possible risks.
+```
+<br>
+
+
+##
+### 12.5 | CAUTION
+
+*Preview:* 
+
+> [!CAUTION]
+> Possible negative outcomes resulting from an action.
+
+<br>
+
+**Syntax:**
+
+```md
+> [!CAUTION]
+> Possible negative outcomes resulting from an action.
+```
+<br>
+
+
 
 #
 #
