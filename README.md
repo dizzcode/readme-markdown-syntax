@@ -458,6 +458,7 @@ Email : example@example.com
 ```
 <br>
 
+#
 - Enclosed link <> <br>
 
 `Preview :`
@@ -493,11 +494,15 @@ Hi, [sign in](https://github.com/login) to GitHub
 
 <br>
 
-## 4.3 ‣ Hover \[ ]( | "")
+## 4.3 ‣ Hover 
 
 `Preview :`
 
 GitHub : [Login](https://github.com/login "Sign in to GitHub! Click here") : Let's build from here <br>
+ 
+<br>
+
+` Syntax : [ ]( | "")`
 
 ```md
 GitHub : [Login](https://github.com/login "Sign in to GitHub! Click here") : Let's build from here
@@ -505,11 +510,15 @@ GitHub : [Login](https://github.com/login "Sign in to GitHub! Click here") : Let
 <br>
 
 
-## 4.4 ‣ Repository Links \( ./ )
+## 4.4 ‣ Repository Links
 
 `Preview :`
 
 [Example Document](/src/example.md)
+
+<br>
+
+` Syntax : ( ./ )`
 
 ```md
 [Example Document](/src/example.md)
@@ -521,6 +530,10 @@ GitHub : [Login](https://github.com/login "Sign in to GitHub! Click here") : Let
 
 [README Document](README.md)
 
+<br>
+
+` Syntax : ( ./ )`
+
 ```md
 [README Document](README.md)
 ```
@@ -531,12 +544,16 @@ GitHub : [Login](https://github.com/login "Sign in to GitHub! Click here") : Let
 
 [SRC Directory](./src)
 
+<br>
+
+` Syntax : ( ./ )`
+
 ```md
 [SRC Directory](./src)
 ```
 <br>
 
-## 4.5 ‣ Footnote \[ ^1 ]
+## 4.5 ‣ Footnote 
 
 `Preview :`
 
@@ -546,6 +563,10 @@ Github markdown cheat sheet [^2].
 [^1]: Reference : https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
 [^2]: Reference : https://dev.to/sameerkatija/github-markdown-cheat-sheet-everything-you-need-to-know-to-write-readme-md-2eca
 
+<br>
+
+` Syntax : [ ^1 ]`
+
 ```md
 Learn advanced formatting features by creating a README for your GitHub profile [^1].  
 Github markdown cheat sheet [^2].
@@ -555,7 +576,7 @@ Github markdown cheat sheet [^2].
 ```
 <br>
 
-## 4.6 ‣ Reference \[ ][ ]
+## 4.6 ‣ Reference 
 
 `Preview :`
 
@@ -566,7 +587,10 @@ Github markdown cheat sheet [^2].
 [github-link]: https://github.com
 [Login link]: https://github.com/login
 
+
 <br>
+
+` Syntax : [ ][ ]`
 
 ```md
 [GitHub : Let's build from here][github-link]
@@ -575,10 +599,20 @@ Github markdown cheat sheet [^2].
 [github-link]: https://github.com
 [Login link]: https://github.com/login
 ```
-<br>
+
+
+
+<br>  
+
+___
+
+___
 
 <br>
-<!-- -------------------------|-| Images |-|-------------------------- -->
+
+<!-- ------------------------------------------------------------------ -->
+<!-- -------------------------| 5 | Images |-|-------------------------- -->
+<!-- ------------------------------------------------------------------ -->
 
 # 5 | Images
 
