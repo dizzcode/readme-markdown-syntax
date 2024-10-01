@@ -17,6 +17,7 @@ It’s commonly applied in Gists, comments, and files with .md or .markdown exte
 - [9 | Line Settings](#9--line-settings)
 - [10 | Mathematical Expressions](#10--mathematical-expressions)
 - [11 | View components](#11--view-components)
+- [12 | Markdown Alerts](#12--markdown-alerts)
 
 <br>
 
@@ -1044,8 +1045,39 @@ ___
 ```
 <br>
 
+
 ##
-### 11.2 | Buttons
+### 11.2 | Pie Chart
+
+<br>
+
+*Preview:* 
+<br>
+
+```mermaid
+pie
+    "Dogs" : 450
+    "Cats" : 500
+    "Parrots" : 50
+```
+
+**Syntax:**
+<br>
+
+````md
+```mermaid
+pie
+    "Dogs" : 450
+    "Cats" : 500
+    "Parrots" : 50
+```
+````
+<br>
+
+<br>
+
+##
+### 11.3 | Buttons
 
 *Preview:* 
 
