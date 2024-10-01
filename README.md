@@ -314,7 +314,7 @@ ___
 
 <!-- -------------------------- Ordered -------------------------- -->
 
-## 3.1 | Ordered 
+## 3.1 ‣ Ordered 
 
 `Preview :`
 
@@ -368,7 +368,7 @@ ___
 <br>
 <!-- -------------------------- Unordered -------------------------- -->
 
-## 3.2 | Unordered
+## 3.2 ‣ Unordered
 
 `Preview :`
 
@@ -438,14 +438,19 @@ ___
 
 <!-- -------------------------- Basic types -------------------------- -->
 
-## 4.1 | Basic types
+## 4.1 ‣ Basic Types
 
 - Auto link <br>
+
+`Preview :`
 
 Web   : https://www.google.com
 
 Email : example@example.com
+ 
+<br>
 
+` Syntax : `
 
 ```md
 Web   : https://www.google.com
@@ -455,7 +460,13 @@ Email : example@example.com
 
 - Enclosed link <> <br>
 
+`Preview :`
+
 GitHub : Let's build from here · <https://github.com>
+ 
+<br>
+
+` Syntax : `
 
 ```md
 GitHub : Let's build from here · <https://github.com>
@@ -464,10 +475,16 @@ GitHub : Let's build from here · <https://github.com>
 <br>
 <!-- -------------------------- Link Label -------------------------- -->
 
-## 4.2 | Link Label \[ ]( )
+## 4.2 ‣ Link Label 
+
+`Preview :`
 
 [GitHub](https://github.com) : Let's build from here <br>
 Hi, [sign in](https://github.com/login) to GitHub
+ 
+<br>
+
+` Syntax : []()`
 
 ```md
 [GitHub](https://github.com) : Let's build from here
@@ -476,7 +493,9 @@ Hi, [sign in](https://github.com/login) to GitHub
 
 <br>
 
-## 4.3 | Hover \[ ]( | "")
+## 4.3 ‣ Hover \[ ]( | "")
+
+`Preview :`
 
 GitHub : [Login](https://github.com/login "Sign in to GitHub! Click here") : Let's build from here <br>
 
@@ -486,7 +505,9 @@ GitHub : [Login](https://github.com/login "Sign in to GitHub! Click here") : Let
 <br>
 
 
-## 4.4 | Repository Links \( ./ )
+## 4.4 ‣ Repository Links \( ./ )
+
+`Preview :`
 
 [Example Document](/src/example.md)
 
@@ -496,6 +517,8 @@ GitHub : [Login](https://github.com/login "Sign in to GitHub! Click here") : Let
 
 <br>
 
+`Preview :`
+
 [README Document](README.md)
 
 ```md
@@ -504,6 +527,8 @@ GitHub : [Login](https://github.com/login "Sign in to GitHub! Click here") : Let
 
 <br>
 
+`Preview :`
+
 [SRC Directory](./src)
 
 ```md
@@ -511,7 +536,9 @@ GitHub : [Login](https://github.com/login "Sign in to GitHub! Click here") : Let
 ```
 <br>
 
-## 4.5 | Footnote \[ ^1 ]
+## 4.5 ‣ Footnote \[ ^1 ]
+
+`Preview :`
 
 Learn advanced formatting features by creating a README for your GitHub profile [^1].  
 Github markdown cheat sheet [^2].
@@ -528,7 +555,9 @@ Github markdown cheat sheet [^2].
 ```
 <br>
 
-## 4.6 | Reference \[ ][ ]
+## 4.6 ‣ Reference \[ ][ ]
+
+`Preview :`
 
 [GitHub : Let's build from here][github-link] <br>
 [Hello there, sign in to GitHub][Login link]
