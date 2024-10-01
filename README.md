@@ -4,6 +4,8 @@
 
 It’s commonly applied in Gists, comments, and files with .md or .markdown extensions. Markdown is also popular for content writing on websites and blogs, as well as for creating documentation and installation guides within project directories.
 
+## Contents
+
 - [1 | Headings](#1--headings)
 - [2 | Text styles](#2--text-styles)
 - [3 | Lists](#3--lists)
@@ -912,7 +914,7 @@ In fact, each title is an anchor, similar to the HTML anchor (`#`), e.g.
 
 |Syntax|Look like|
 |---|---|
-|`[Back to top](#readme)`|[Back to top](#readme)|
+|`[Back to contents](#contents)`|[Back to contents](#contents)|
 
 Note that all the letters in the title are converted to **lowercase letters**.
 
