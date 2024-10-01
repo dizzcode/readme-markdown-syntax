@@ -42,7 +42,7 @@ It’s commonly applied in Gists, comments, and files with .md or .markdown exte
 13. [Tables](#13--tables)
     - <samp> Basic Table types ○ Table Alignment ○ Multi-line data ○ Nested Table ○ Table Styling ○  </samp>  
 
-<br>
+<br>  
 ___
 
 <!-- ------------------------------------------------------------------ -->
@@ -90,7 +90,7 @@ H2
 -
 ```
 
-<br>
+<br>  
 ___
 ___
 
@@ -296,7 +296,7 @@ This is the normal text style
 ```
 
 
-<br>
+<br>  
 ___
 ___
 
