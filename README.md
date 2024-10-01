@@ -1077,14 +1077,14 @@ ___
 Using backticks( ` ) is a simple way to create tags for articles, such as <br>
 <br>
 
-`Preview :`
+*Preview :*
 
 
 `GitHub` : Let's build from here - `any important text`
 
 <br>
 
-` Syntax : `
+**Syntax :**
 
 
 ```git
@@ -1122,13 +1122,13 @@ For a comprehensive list of all supported emojis on GitHub, check out the [Emoji
 ##
 ### 8.3 ‣ Quoting Text / Blockquotes >
 
-*Preview :*
+`Preview :`
 
 > This is a block quoted text
 
 <br>
 
-**Syntax :**
+` Syntax : `
 
 ```git
 > This is a block quoted text
