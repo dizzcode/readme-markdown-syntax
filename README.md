@@ -1388,22 +1388,82 @@ Alternative ways
 ```
 
 <br>
-___
-___
 
-### Align
-You may specify alignment like this:
-```git
-| Align left | Centered  | Align right |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
+##
+### 13.5 | Styling
+
+*Preview:* 
+
+<table>
+<tr>
+<th>Header 1</th>
+<th>Header 2</th>
+</tr>
+<tr>
+<td>
+    
+<pre>
+    <h3 align="center"> This is a Cool Icon  </h3>
+
+    <img 
+    src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/image_file.png" 
+    width="128" 
+    height="128" 
+    />
+
+</pre>
+
+</td>
+<td>
+    
+<pre lang="js">
+    console.log('Hello');
+    console.log('World!');
+    console.log('This is');
+    console.log('JavaScript');
+</pre>
+
+</td>
+</tr>
+</table>
+
+
+**Syntax:**
+
+```md
+<table>
+<tr>
+<th>Header 1</th>
+<th>Header 2</th>
+</tr>
+<tr>
+<td>
+    
+<pre>
+    <h3 align="center"> This is a Cool Icon  </h3>
+
+    <img 
+    src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/image_file.png" 
+    width="128" 
+    height="128" 
+    />
+
+</pre>
+
+</td>
+<td>
+    
+<pre lang="js">
+    console.log('Hello');
+    console.log('World!');
+    console.log('This is');
+    console.log('JavaScript');
+</pre>
+
+</td>
+</tr>
+</table>
 ```
-| Align left | Centered  | Align right |
-| :------------ |:---------------:| -----:|
-| aaa     | bbb | ccc |
 
-p.s. You can use alignment with `<h1 (or 2 etc.) align="center"> your text </h1>` tags or with `<p align="center"> your text</p>` tag to align plain text. 
-___
-
-
+<br>
 ___
