@@ -1077,7 +1077,40 @@ pie
 <br>
 
 ##
-### 11.3 | Buttons
+### 11.3 | Badges
+
+To get dynamically generated GitHub stats on your READMEs, check out [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) !
+
+
+*Preview:*
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dizzcode)](https://github.com/dizzcode/github-readme-stats)
+
+**Syntax:**
+<br>
+**Change the `?username= value` to your GitHub username.**
+````md
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dizzcode)](https://github.com/dizzcode/github-readme-stats)
+````
+
+#
+*Preview:*
+<br>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dizzcode)](https://github.com/dizzcode)
+
+<br>  
+
+**Syntax:**
+<br>
+**Change the `?username= value` to your GitHub username.**
+````md
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dizzcode)](https://github.com/dizzcode)
+````
+
+<br>
+
+##
+### 11.4 | Buttons
 
 *Preview:* 
 
