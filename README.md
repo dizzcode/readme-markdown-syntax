@@ -298,7 +298,6 @@ This is the normal text style
 <samp>This is the Monospaced text style</samp> 
 ```
 
-
 <br>  
 
 ___
@@ -317,9 +316,15 @@ ___
 
 ## 3.1 | Ordered 
 
+`Preview :`
+
 1. First level - Item one
 2. First level - Item two
 3. First level - Item three
+
+<br>
+
+` Syntax : `
 
 ```md
 1. First level - Item one
@@ -328,8 +333,10 @@ ___
 ```
 <br>
 
-
+##
 ### Multi level
+
+`Preview :`
 
 1. First level
     1. Second level
@@ -341,7 +348,11 @@ ___
 2. First level
     1. Second level
 
+
 <br>
+
+` Syntax : `
+
 
 ```md
 1. First level
@@ -359,8 +370,14 @@ ___
 
 ## 3.2 | Unordered
 
+`Preview :`
+
 - Item one
 - Item two
+
+<br>
+
+` Syntax : `
 
 ```md
 - Item one
@@ -379,7 +396,10 @@ Alternative ways
 ```
 <br>
 
+##
 ### Multi level
+
+`Preview :`
 
 - First level
   - Second level
@@ -388,6 +408,10 @@ Alternative ways
 - First level
   - Second level
  
+<br>
+
+` Syntax : `
+
 ```md
 - First level
   - Second level
@@ -397,12 +421,18 @@ Alternative ways
   - Second level
 ```
 
-<br>
+
+<br>  
+
+___
 
 ___
 
 <br>
-<!-- -------------------------|-| Links |-|-------------------------- -->
+
+<!-- ------------------------------------------------------------------ -->
+<!-- -------------------------| 4 | Links |-|-------------------------- -->
+<!-- ------------------------------------------------------------------ -->
 
 # 4 | Links
 
