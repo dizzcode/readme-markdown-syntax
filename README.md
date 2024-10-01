@@ -92,6 +92,7 @@ H2
 ```
 
 <br>  
+
 ___
 
 ___
@@ -299,6 +300,7 @@ This is the normal text style
 
 
 <br>  
+
 ___
 
 ___
