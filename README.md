@@ -123,6 +123,8 @@ Alternative ways to <strong>bold text</strong>
 
 *Italic Text Style*  
 
+<br>
+
 ` Syntax : `
 
 ```md
