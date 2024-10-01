@@ -1049,25 +1049,25 @@ ___
 
 *Preview:* 
 
-<kbd>[ GitHub ](https://github.com/login)</kbd>
+<kbd>[ GitHub Login ](https://github.com/login)</kbd>
 
 **Syntax:**
 <br>
 
 ```md
-<kbd>[ GitHub ](https://github.com/login)</kbd>
+<kbd>[ GitHub Login ](https://github.com/login)</kbd>
 ```
 #
 
 *Preview:* 
 
-<kbd>[<br>&nbsp;   🌘 GitHub Login ┈➤  &nbsp;](https://github.com/login) <br><br></kbd>
+<kbd>[<br>&nbsp;   🌘 GitHub Login ┈➤  &nbsp;<br><br>](https://github.com/login) </kbd>
 
 **Syntax:**
 <br>
 
 ```md
-<kbd>[<br>&nbsp;   🌘 GitHub Login ┈➤  &nbsp;](https://github.com/login) <br><br></kbd>
+<kbd>[<br>&nbsp;   🌘 GitHub Login ┈➤  &nbsp;<br><br>](https://github.com/login) </kbd>
 ```
 
 
