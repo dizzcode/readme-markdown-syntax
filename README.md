@@ -616,22 +616,30 @@ ___
 
 # 5 | Images
 
-## 5.1 | Basic Image 
+## 5.1 ‣ Basic Image 
 <kbd> !\[Alternative-text](URL "Title-text") </kbd>
 
 *Alternative text and title text are optional*
 ##
 
+`Preview :`
+
 ![Github Logo](https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Github-128.png "Title text")
+
+<br>
+
+` Syntax : `
 
 ```md
 ![Github Logo](https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Github-128.png "Title text")
 ```
 
 
-## 5.2 | Image Embed element : \<img>
+## 5.2 ‣ Image Embed element : \<img>
 
-### Image
+### ‣ Image
+
+`Preview :`
 
 <img 
     src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/image_file.png" 
@@ -639,6 +647,10 @@ ___
     height="128" 
     border="5"
 />
+
+<br>
+
+` Syntax : `
 
 ```md
 <img 
@@ -652,7 +664,9 @@ ___
 
 ##
 
-### GIF
+### ‣ GIF
+
+`Preview :`
 
 <img 
     src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RuamM2eW13ZnNjZ3R4aGNubGp3OHljN2I5cTlsZndkanJqc3g5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" 
@@ -660,6 +674,9 @@ ___
     height="148" 
 />
 
+<br>
+
+` Syntax : `
 
 ```md
 <img 
@@ -673,7 +690,9 @@ ___
 
 ##
 
-### Icons
+### ‣ Icons
+
+`Preview :`
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
@@ -682,6 +701,10 @@ ___
     width="88" 
     height="30" 
 />
+
+<br>
+
+` Syntax : `
 
 ```md
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
@@ -695,9 +718,15 @@ ___
 
 <br>
 
-## 5.3 | Image with click action
+## 5.3 ‣ Image with click action
+
+`Preview :`
 
 [![GitHub](https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__github_-128.png)](https://github.com)
+
+<br>
+
+` Syntax : `
 
 ```md
 [![GitHub](https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__github_-128.png)](https://github.com)
@@ -707,12 +736,18 @@ ___
 <br>
 <br>
 
+
+`Preview :`
 
 <a 
   href='https://github.com' 
   target='_blank'> 
   <img src='https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__github_-128.png' /> 
 </a>
+
+<br>
+
+` Syntax : `
 
 ```md
 <a 
