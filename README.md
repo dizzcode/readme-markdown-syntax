@@ -1466,8 +1466,6 @@ pie
 ````
 <br>
 
-<br>
-
 ##
 ### 11.3 ‣ Badges
 
@@ -1508,8 +1506,9 @@ To get dynamically generated GitHub stats on your READMEs, check out [GitHub Rea
 
 <kbd>[ GitHub Login ](https://github.com/login)</kbd>
 
-` Syntax : `
 <br>
+
+` Syntax : `
 
 ```md
 <kbd>[ GitHub Login ](https://github.com/login)</kbd>
@@ -1520,8 +1519,9 @@ To get dynamically generated GitHub stats on your READMEs, check out [GitHub Rea
 
 <kbd>[<br>&nbsp;   🌘 GitHub Login ┈➤  &nbsp;<br><br>](https://github.com/login) </kbd>
 
-` Syntax : `
 <br>
+
+` Syntax : `
 
 ```md
 <kbd>[<br>&nbsp;   🌘 GitHub Login ┈➤  &nbsp;<br><br>](https://github.com/login) </kbd>
@@ -1548,14 +1548,14 @@ On GitHub, these alerts are shown with different colors and icons to help users 
 ##
 ### 12.1 ‣ NOTE
 
-*Preview:* 
+`Preview :` 
 
 > [!NOTE]
 > Essential details that users should not overlook, even when browsing quickly.
 
 <br>
 
-**Syntax:**
+` Syntax : `
 
 ```md
 > [!NOTE]
@@ -1566,14 +1566,14 @@ On GitHub, these alerts are shown with different colors and icons to help users 
 ##
 ### 12.2 ‣ TIP
 
-*Preview:* 
+`Preview :` 
 
 > [!TIP]
 > Additional advice to aid users in achieving better outcomes.
 
 <br>
 
-**Syntax:**
+` Syntax : `
 
 ```md
 > [!TIP]
@@ -1584,14 +1584,14 @@ On GitHub, these alerts are shown with different colors and icons to help users 
 ##
 ### 12.3 ‣ IMPORTANT
 
-*Preview:* 
+`Preview :` 
 
 > [!IMPORTANT]
 > Vital information required for users to attain success.
 
 <br>
 
-**Syntax:**
+` Syntax : `
 
 ```md
 > [!IMPORTANT]
@@ -1603,14 +1603,14 @@ On GitHub, these alerts are shown with different colors and icons to help users 
 ##
 ### 12.4 ‣ WARNING
 
-*Preview:* 
+`Preview :` 
 
 > [!WARNING]
 > Urgent content that requires immediate user focus due to possible risks.
 
 <br>
 
-**Syntax:**
+` Syntax : `
 
 ```md
 > [!WARNING]
@@ -1622,14 +1622,14 @@ On GitHub, these alerts are shown with different colors and icons to help users 
 ##
 ### 12.5 ‣ CAUTION
 
-*Preview:* 
+`Preview :` 
 
 > [!CAUTION]
 > Possible negative outcomes resulting from an action.
 
 <br>
 
-**Syntax:**
+` Syntax : `
 
 ```md
 > [!CAUTION]
