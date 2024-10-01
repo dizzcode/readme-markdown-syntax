@@ -18,6 +18,7 @@ It’s commonly applied in Gists, comments, and files with .md or .markdown exte
 - [10 | Mathematical Expressions](#10--mathematical-expressions)
 - [11 | View components](#11--view-components)
 - [12 | Markdown Alerts](#12--markdown-alerts)
+- [13 | Tables](#13--tables)
 
 <br>
 
@@ -1238,27 +1239,56 @@ On GitHub, these alerts are shown with different colors and icons to help users 
 <br>
 
 
-
-#
-#
-___
 ___
 
-### Tables
+<br>
+<!-- -------------------------|-| Tables  |-|-------------------------- -->
 
-```git
-|Header1|Header2|Header3|
+# 13 | Tables
+
+
+*Preview:* 
+<br>  
+
+|Header 1|Header 2|Header 3|
 | --- | --- | --- |
-| This | is a | table |
-| This | is 2nd | row |
-| This | is 3rd | row |
+| First  | Data | Row |
+| Second | Data | Row |
+| Third  | Data | Row |
+
+**Syntax:**
+
+```md
+|Header 1|Header 2|Header 3|
+| --- | --- | --- |
+| First  | Data | Row |
+| Second | Data | Row |
+| Third  | Data | Row |
 ```
 
-|Header1|Header2|Header3|
-| --- | --- | --- |
-| This | is a | table |
-| This | is 2nd | row |
-| This | is 3rd | row |
+Alternative ways
+
+```md
+<table>
+ <tr>
+  <td width="33%">Header 1</td> 
+  <td width="33%">Header 2</td>
+  <td width="33%">Header 3</td>
+ </tr>
+
+ <tr>
+   <td>First</td>   
+   <td>Data</td>
+   <td>Row</td>
+ </tr>
+</table>
+```
+
+<br>
+<br>
+___
+___
+___
 
 ### Align
 You may specify alignment like this:
