@@ -634,6 +634,9 @@ Here is a simple footnote[^1]. Some other important footnote.[^2]
 
 ___
 
+<br>
+<!-- -------------------------|-| Code Block |-|-------------------------- -->
+
 # 7 | Code Block
 
 ### 7.1 | Basic style
@@ -735,6 +738,9 @@ company: ***
 
 ```
 ___
+
+<br>
+<!-- -------------------------|-| Text Decoration  |-|-------------------------- -->
 
 # 8 | Text Decoration 
 
