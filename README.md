@@ -14,6 +14,7 @@ It’s commonly applied in Gists, comments, and files with .md or .markdown exte
 - [6 | Alignments](#6--alignments)
 - [7 | Code Block](#7--code-block)
 - [8 | Text Decoration](#8--text-decoration)
+- [9 | Line Settings](#9--line-settings)
 
 <br>
 
@@ -887,6 +888,76 @@ You can add comments in Markdown using HTML-style comments:
 #### NOTE : These comments will be invisible when viewing the README file.
 
 
+___
+
+<br>
+<!-- -------------------------|-| Line Settings  |-|-------------------------- -->
+
+# 9 | Line Settings
+
+
+### 9.1 | Horizontal Line
+
+### Style 1
+
+*Preview:*  
+
+#
+
+  
+**Syntax:**
+```md
+#
+```
+
+Alternative ways
+
+```md
+##
+```
+<br>
+
+### Style 2
+
+*Preview:*  
+
+___
+
+  
+**Syntax:**
+```md
+___
+```
+
+Alternative ways
+
+```md
+***
+```
+
+```md
+--- 
+```
+
+```md
+<hr>
+```
+
+
+##
+### 9.2 | Break between lines \<br>
+
+This is a <br>normal text
+
+<br>
+
+**Syntax:**
+```md
+This is a <br>normal text
+```
+___
+
+
 #
 #
 ___
@@ -948,28 +1019,7 @@ ___
 
 ___
 
-### Horizontal Line
 
-```git
-***
-___
---- 
-```
-
-All three will be rendered as:
-___
-p.s. 
-```git
-<hr> works too
-```
-___
-
-### Break between lines
-
-```git
-<br>
-```
-___
 
 
 ___
