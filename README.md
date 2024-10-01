@@ -775,7 +775,7 @@ ___
 
 # 6 | Alignments
 
-## 6.1 | Text Alignments
+## 6.1 ‣ Text Alignments
 
 
 `Preview :`
@@ -794,7 +794,7 @@ ___
 <h3 align="right"> Heading Right </h3>
 ```
 
-## 6.2 | Image Alignments
+## 6.2 ‣ Image Alignments
 
 ### Left
 
@@ -922,22 +922,34 @@ ___
 <br>
 
 
+<br>  
+
+___
+
 ___
 
 <br>
-<!-- -------------------------|-| Code Block |-|-------------------------- -->
+
+<!-- ------------------------------------------------------------------ -->
+<!-- -------------------------| 7 | Code Block |-|-------------------------- -->
+<!-- ------------------------------------------------------------------ -->
+
 
 # 7 | Code Block
 
-### 7.1 | Basic style
+### 7.1 ‣ Basic style
 You can create code blocks by placing triple backticks ``` before and after the code block. 
 
-Preview:
+`Preview :`
+
 ```
 this is an example of code.
 ```
 
-Syntax:
+<br>
+
+` Syntax : `
+
 ```
     ```
     this is an example of code.
@@ -945,9 +957,13 @@ Syntax:
 ```
 
 ##
-### 7.2 | Fenced code blocks
+### 7.2 ‣ Fenced code blocks
 In GitHub Flavored Markdown (GFM), you can create code blocks by wrapping your code with three backticks, avoiding the need for leading spaces. <br>
 You can also add an optional language identifier to enable syntax highlighting for your code.
+
+<br>
+
+` Syntax : Java`
 
 ````md
 ```java
@@ -956,6 +972,10 @@ public static void main(String[]args){}
 ```
 ````
 
+<br>
+
+` Syntax : Javascript`
+
 ````md
 ```javascript
 console.log('javascript')
@@ -963,11 +983,19 @@ console.log('javascript')
 ```
 ````
 
+<br>
+
+` Syntax : Python`
+
 ````md
 ```python
 print('python')
 ```
 ````
+
+<br>
+
+` Syntax : Json`
 
 ````md
 ```json
@@ -981,7 +1009,7 @@ print('python')
 
 
 ##
-### 7.3 | Diff Code block
+### 7.3 ‣ Diff Code block
 
 In version control, diff highlights changes in various colors. In GitHub Flavored Markdown (GFM), you can display:
 
@@ -993,7 +1021,8 @@ In version control, diff highlights changes in various colors. In GitHub Flavore
     
 Use the same syntax as fenced code blocks but specify diff after the three backticks.
 
-Preview:
+
+`Preview :`
 
 ```diff
 - Text Color Red
@@ -1003,7 +1032,9 @@ Preview:
 @@ Text Color Purple And Bold @@
 ```
 
-**Syntax:**
+<br>
+
+` Syntax : Json`
 
 ````md
 ```diff
@@ -1018,6 +1049,8 @@ Preview:
 ##
 ### Recommendation > Use YAML : A Human-Friendly Data Serialization Language
 
+` Syntax : YAML`
+
 ```yaml
 name: John Doe
 location: New York, USA
@@ -1027,14 +1060,22 @@ occupation: Software Engineer
 company: ***
 
 ```
+
+<br>  
+
+___
+
 ___
 
 <br>
-<!-- -------------------------|-| Text Decoration  |-|-------------------------- -->
+
+<!-- ------------------------------------------------------------------ -->
+<!-- -------------------------| 8 | Text Decoration  |-|-------------------------- -->
+<!-- ------------------------------------------------------------------ -->
 
 # 8 | Text Decoration 
 
-### 8.1 | Text Highlighting
+### 8.1 ‣ Text Highlighting
 
 Using backticks( ` ) is a simple way to create tags for articles, such as <br>
 <br>
@@ -1046,7 +1087,7 @@ Using backticks( ` ) is a simple way to create tags for articles, such as <br>
 ```
 
 ##
-### 8.2 | Emoji
+### 8.2 ‣ Emoji
 
 🌳 🐻 🍯 🌺
 
@@ -1067,7 +1108,7 @@ or you can use shortcode format
 For a comprehensive list of all supported emojis on GitHub, check out the [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 ##
-### 8.3 | Quoting Text / Blockquotes >
+### 8.3 ‣ Quoting Text / Blockquotes >
 
 
 > This is a block quoted text
@@ -1092,7 +1133,7 @@ This is a normal text
 ```
 
 ##
-### 8.4 | Multi-level blockquotes
+### 8.4 ‣ Multi-level blockquotes
 
 
 > First level
@@ -1112,7 +1153,7 @@ This is a normal text
 ```
 
 ##
-### 8.5 | Multi-line text
+### 8.5 ‣ Multi-line text
 
 You can add either 2 spaces or 4 spaces at the end of a line before starting a new line to achieve an indented effect.
 
@@ -1133,7 +1174,7 @@ Third level
 
 
 ##
-### 8.6 | Anchor
+### 8.6 ‣ Anchor
 
 Each title in GitHub Flavored Markdown (GFM) serves as an anchor, similar to an HTML anchor (#). For example:
 #### NOTE : Keep in mind that all letters in the title are converted to lowercase.
@@ -1151,7 +1192,7 @@ Each title in GitHub Flavored Markdown (GFM) serves as an anchor, similar to an 
 ```
 
 ##
-### 8.7 | Visible markdown characters
+### 8.7 ‣ Visible markdown characters
  
 To make special characters visible in Markdown, you can escape them using a backslash (\\). Here are some common examples:
 
@@ -1166,7 +1207,7 @@ To make special characters visible in Markdown, you can escape them using a back
 ```
 
 ##
-### 8.8 | Comments in Markdown
+### 8.8 ‣ Comments in Markdown
 
 You can add comments in Markdown using HTML-style comments:
 
@@ -1177,15 +1218,22 @@ You can add comments in Markdown using HTML-style comments:
 #### NOTE : These comments will be invisible when viewing the README file.
 
 
+<br>  
+
+___
+
 ___
 
 <br>
-<!-- -------------------------|-| Line Settings  |-|-------------------------- -->
+
+<!-- ------------------------------------------------------------------ -->
+<!-- -------------------------| 9 | Line Settings  |-|-------------------------- -->
+<!-- ------------------------------------------------------------------ -->
 
 # 9 | Line Settings
 
 
-### 9.1 | Horizontal Line
+### 9.1 ‣ Horizontal Line
 
 ### Style 1
 
@@ -1234,7 +1282,7 @@ Alternative ways
 
 
 ##
-### 9.2 | Break between lines \<br>
+### 9.2 ‣ Break between lines \<br>
 
 This is a <br>normal text
 
@@ -1246,17 +1294,24 @@ This is a <br>normal text
 ```
 
 
+<br>  
+
+___
+
 ___
 
 <br>
-<!-- -------------------------|-| Line Settings  |-|-------------------------- -->
+
+<!-- ------------------------------------------------------------------ -->
+<!-- -------------------------| 10 | Mathematical Expressions  |-|-------------------------- -->
+<!-- ------------------------------------------------------------------ -->
 
 # 10 | Mathematical Expressions
 
 You can use LaTeX-style syntax to render math expressions in Markdown, allowing you to present mathematical content both inline (using `$` delimiters) and as blocks (using `$$` delimiters)
 
 ##
-### 10.1 | Inline expressions
+### 10.1 ‣ Inline expressions
 To include a math expression inline, simply place the expression between two dollar ( `$` ) signs.  
 Here’s a basic example:
 
@@ -1279,7 +1334,7 @@ $\frac{2a+b}{c} = d$
 <br>
 
 ##
-### 10.2 | Block Expressions
+### 10.2 ‣ Block Expressions
 
 To display a mathematical expression as a multiline block, start a new line and enclose the expression with two dollar symbols `$$`.  
 This format is particularly useful for complex equations or when you want to emphasize the math content.
@@ -1299,14 +1354,21 @@ $$\int_{a}^{b} f(x) \, dx = F(b) - F(a)$$
 ```
 
 
+<br>  
+
+___
+
 ___
 
 <br>
-<!-- -------------------------|-| View components  |-|-------------------------- -->
 
-# 11 | View components
+<!-- ------------------------------------------------------------------ -->
+<!-- -------------------------| 11 | View Components  |-|-------------------------- -->
+<!-- ------------------------------------------------------------------ -->
 
-### 11.1 | CheckBox
+# 11 | View Components
+
+### 11.1 ‣ CheckBox
 
 *Preview:* 
 <br>
@@ -1333,7 +1395,7 @@ ___
 
 
 ##
-### 11.2 | Pie Chart
+### 11.2 ‣ Pie Chart
 
 <br>
 
@@ -1363,7 +1425,7 @@ pie
 <br>
 
 ##
-### 11.3 | Badges
+### 11.3 ‣ Badges
 
 To get dynamically generated GitHub stats on your READMEs, check out [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) !
 
@@ -1396,7 +1458,7 @@ To get dynamically generated GitHub stats on your READMEs, check out [GitHub Rea
 <br>
 
 ##
-### 11.4 | Buttons
+### 11.4 ‣ Buttons
 
 *Preview:* 
 
@@ -1421,10 +1483,18 @@ To get dynamically generated GitHub stats on your READMEs, check out [GitHub Rea
 <kbd>[<br>&nbsp;   🌘 GitHub Login ┈➤  &nbsp;<br><br>](https://github.com/login) </kbd>
 ```
 
+
+<br>  
+
+___
+
 ___
 
 <br>
-<!-- -------------------------|-| Markdown Alerts  |-|-------------------------- -->
+
+<!-- ------------------------------------------------------------------ -->
+<!-- -------------------------| 12 | Markdown Alerts  |-|-------------------------- -->
+<!-- ------------------------------------------------------------------ -->
 
 # 12 | Markdown Alerts
 
@@ -1432,7 +1502,7 @@ Alerts are special features in Markdown used to highlight important information.
 On GitHub, these alerts are shown with different colors and icons to help users quickly understand how important the content is.
 
 ##
-### 12.1 | NOTE
+### 12.1 ‣ NOTE
 
 *Preview:* 
 
@@ -1450,7 +1520,7 @@ On GitHub, these alerts are shown with different colors and icons to help users 
 <br>
 
 ##
-### 12.2 | TIP
+### 12.2 ‣ TIP
 
 *Preview:* 
 
@@ -1468,7 +1538,7 @@ On GitHub, these alerts are shown with different colors and icons to help users 
 <br>
 
 ##
-### 12.3 | IMPORTANT
+### 12.3 ‣ IMPORTANT
 
 *Preview:* 
 
@@ -1487,7 +1557,7 @@ On GitHub, these alerts are shown with different colors and icons to help users 
 
 
 ##
-### 12.4 | WARNING
+### 12.4 ‣ WARNING
 
 *Preview:* 
 
@@ -1506,7 +1576,7 @@ On GitHub, these alerts are shown with different colors and icons to help users 
 
 
 ##
-### 12.5 | CAUTION
+### 12.5 ‣ CAUTION
 
 *Preview:* 
 
@@ -1523,15 +1593,22 @@ On GitHub, these alerts are shown with different colors and icons to help users 
 ```
 <br>
 
+
+<br>  
+
+___
 
 ___
 
 <br>
-<!-- -------------------------|-| Tables  |-|-------------------------- -->
+
+<!-- ------------------------------------------------------------------ -->
+<!-- -------------------------| 13 | Tables |-|-------------------------- -->
+<!-- ------------------------------------------------------------------ -->
 
 # 13 | Tables
 
-### 13.1 | Basic Table types
+### 13.1 ‣ Basic Table types
 
 *Preview:* 
 <br>  
@@ -1572,7 +1649,7 @@ Alternative ways
 
 
 ##
-### 13.2 | Table Alignment
+### 13.2 ‣ Table Alignment
 
 - `-`   Default 
 - `:-`  Align Left  
@@ -1601,7 +1678,7 @@ Alternative ways
 <br>
 
 ##
-### 13.3 | Multi-line data
+### 13.3 ‣ Multi-line data
 
 *Preview:* 
 
@@ -1620,7 +1697,7 @@ Alternative ways
 <br>
 
 ##
-### 13.4 | Nested Table
+### 13.4 ‣ Nested Table
 
 *Preview:* 
 
@@ -1675,7 +1752,7 @@ Alternative ways
 <br>
 
 ##
-### 13.5 | Styling
+### 13.5 ‣ Styling
 
 *Preview:* 
 
