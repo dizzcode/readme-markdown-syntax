@@ -15,6 +15,8 @@ It’s commonly applied in Gists, comments, and files with .md or .markdown exte
 - [7 | Code Block](#7--code-block)
 - [8 | Text Decoration](#8--text-decoration)
 - [9 | Line Settings](#9--line-settings)
+- [10 | Mathematical Expressions](#10--mathematical-expressions)
+- [11 | View components](#11--view-components)
 
 <br>
 
@@ -964,8 +966,9 @@ ___
 
 # 10 | Mathematical Expressions
 
-You can use LaTeX-style syntax to render math expressions in Markdown, allowing you to present mathematical content both inline (using $ delimiters) and as blocks (using $$ delimiters)
+You can use LaTeX-style syntax to render math expressions in Markdown, allowing you to present mathematical content both inline (using `$` delimiters) and as blocks (using `$$` delimiters)
 
+##
 ### 10.1 | Inline expressions
 To include a math expression inline, simply place the expression between two dollar ( `$` ) signs.  
 Here’s a basic example:
@@ -1009,6 +1012,65 @@ $$\int_{a}^{b} f(x) \, dx = F(b) - F(a)$$
 ```
 
 
+___
+
+<br>
+<!-- -------------------------|-| View components  |-|-------------------------- -->
+
+# 11 | View components
+
+### 11.1 | CheckBox
+
+*Preview:* 
+<br>
+
+* [ ] Checkbox 1
+
+* [x] Checkbox 2 Selected
+
+* [ ] Checkbox 3
+
+<br>
+
+**Syntax:**
+<br>
+
+```md
+* [ ] Checkbox 1
+
+* [x] Checkbox 2 Selected
+
+* [ ] Checkbox 3
+```
+<br>
+
+##
+### 11.2 | Buttons
+
+*Preview:* 
+
+<kbd>[ GitHub ](https://github.com/login)</kbd>
+
+**Syntax:**
+<br>
+
+```md
+<kbd>[ GitHub ](https://github.com/login)</kbd>
+```
+#
+
+*Preview:* 
+
+<kbd>[<br>&nbsp;   🌘 GitHub Login ┈➤  &nbsp;](https://github.com/login) <br><br></kbd>
+
+**Syntax:**
+<br>
+
+```md
+<kbd>[<br>&nbsp;   🌘 GitHub Login ┈➤  &nbsp;](https://github.com/login) <br><br></kbd>
+```
+
+
 #
 #
 ___
@@ -1044,73 +1106,5 @@ You may specify alignment like this:
 p.s. You can use alignment with `<h1 (or 2 etc.) align="center"> your text </h1>` tags or with `<p align="center"> your text</p>` tag to align plain text. 
 ___
 
-### CheckBox
-
-```git
-* [ ] Checkbox1
-
-* [ ] Checkbox2
-
-* [x] Checkbox selected
-```
-
-
-* [ ] Checkbox1
-
-* [ ] Checkbox2
-
-* [x] Checkbox selected
-
-You may use this syntax in GitHub's issue to check or uncheck the checkbox in real time without having to modify the original version of the issue.
-
-___
-
-
-___
-
-___
-
-
-
-
-___
-
-
-
-
-
-___
-
-
-___
-
-
-___
-
-### Render mathematical expressions in Markdown
-
-You can now use LaTeX style syntax to render math expressions within Markdown inline (using $ delimiters) or in blocks (using $$ delimiters).
-
-Writing expressions as blocks
-To add math as a multiline block displayed separately from surrounding text, start a new line and delimit the expression with two dollar symbols $$.
-
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
-
-```git
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
-```
-## Writing inline expressions
-To include a math expression inline with your text, delimit the expression with a dollar symbol $.
-
-This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
-
-```git
-This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
-```
-
-___
-
-
-### [Markdown posts on GitHub](https://github.blog/changelog/label/markdown/)
 
 ___
