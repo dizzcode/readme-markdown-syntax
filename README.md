@@ -633,7 +633,7 @@ ___
 
 # 7 | Code Block
 
-### Basic style
+### 7.1 | Basic style
 You can create code blocks by placing triple backticks ``` before and after the code block. 
 
 Preview:
@@ -649,9 +649,9 @@ Syntax:
 ```
 
 ##
-### Fenced code blocks
-With GFM you can wrap your code with three back quotes to create a code block without the leading spaces. <br>
-Add annoptional language identifier and your code will get syntax highlighting.
+### 7.12 | Fenced code blocks
+In GitHub Flavored Markdown (GFM), you can create code blocks by wrapping your code with three backticks, avoiding the need for leading spaces. <br>
+You can also add an optional language identifier to enable syntax highlighting for your code.
 
 ````md
 ```java
@@ -685,7 +685,7 @@ print('python')
 
 
 ##
-### Diff Code block
+### 7.3 | Diff Code block
 
 In version control, diff highlights changes in various colors. In GitHub Flavored Markdown (GFM), you can display:
 
