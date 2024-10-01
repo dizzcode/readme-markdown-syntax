@@ -786,7 +786,7 @@ For a comprehensive list of all supported emojis on GitHub, check out the [Emoji
 > This is a block quoted text
 ```
 <br>
-Difference
+*Difference*
 <br>
 <br>
 
@@ -801,8 +801,25 @@ This is a normal text
 This is a normal text
 ```
 
+##
+### 8.4 | Multi-level blockquotes
 
 
+> First level
+>> Second level
+>>> Third level
+>>>> Fourth level
+>>>>> Fifth level
+
+<br>
+
+```md
+> First level
+>> Second level
+>>> Third level
+>>>> Fourth level
+>>>>> Fifth level
+```
 
 #
 #
@@ -864,24 +881,6 @@ You may use this syntax in GitHub's issue to check or uncheck the checkbox in re
 
 ___
 
-
-
-### Multi-level blockquotes
-```
-> Asia
->> China
->>> Beijing
->>>> Haidian
->>>>> Tsinghua
-```
-#### Look like
-> Asia
->> China
->>> Beijing
->>>> Haidian
->>>>> Tsinghua
-
-* These are fenced code blocks
 
 ___
 
