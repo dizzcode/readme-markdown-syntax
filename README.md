@@ -1246,6 +1246,7 @@ ___
 
 # 13 | Tables
 
+### 13.1 | Basic Table types
 
 *Preview:* 
 <br>  
@@ -1286,7 +1287,7 @@ Alternative ways
 
 
 ##
-### Alignment
+### 13.2 | Table Alignment
 
 - `-`   Default 
 - `:-`  Align Left  
@@ -1315,7 +1316,7 @@ Alternative ways
 <br>
 
 ##
-### Multi-line data
+### 13.3 | Multi-line data
 
 *Preview:* 
 
@@ -1333,6 +1334,60 @@ Alternative ways
 
 <br>
 
+##
+### 13.4 | Nested Table
+
+*Preview:* 
+
+<table>
+<tr>
+<th>Header 1</th>
+<th>Header 2</th>
+</tr>
+<tr>
+
+<td>
+
+| H 1 | H 2 |
+|--|--|
+| Data 1 | Data 2 |
+
+</td><td>
+
+| H 1 | H 2 | H 3 |
+|--|--|--|
+| Data 1 | Data 2 | Data 3 |
+
+</td></tr> 
+</table>
+
+**Syntax:**
+
+```md
+<table>
+<tr>
+<th>Header 1</th>
+<th>Header 2</th>
+</tr>
+<tr>
+
+<td>
+
+| H 1 | H 2 |
+|--|--|
+| Data 1 | Data 2 |
+
+</td><td>
+
+| H 1 | H 2 | H 3 |
+|--|--|--|
+| Data 1 | Data 2 | Data 3 |
+
+</td></tr> 
+</table>
+```
+
+<br>
 ___
 ___
 
