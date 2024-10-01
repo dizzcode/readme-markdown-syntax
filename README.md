@@ -371,16 +371,20 @@ GitHub : [Login](https://github.com/login "Sign in to GitHub! Click here") : Let
 
 ## 4.5 | Footnote \[ ^1 ]
 
-Here is a simple footnote[^1]. Some other important footnote.[^2]
+Learn advanced formatting features by   
+creating a README for your GitHub profile [^1].  
+Github markdown cheat sheet [^2].
 
-[^1]: My reference 1
-[^2]: My reference 2
+[^1]: Reference : https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
+[^2]: Reference : https://dev.to/sameerkatija/github-markdown-cheat-sheet-everything-you-need-to-know-to-write-readme-md-2eca
 
 ```md
-Here is a simple footnote[^1]. Some other important footnote.[^2]
+Learn advanced formatting features by   
+creating a README for your GitHub profile [^1].  
+Github markdown cheat sheet [^2].
 
-[^1]: My reference 1
-[^2]: My reference 2
+[^1]: Reference : https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
+[^2]: Reference : https://dev.to/sameerkatija/github-markdown-cheat-sheet-everything-you-need-to-know-to-write-readme-md-2eca
 ```
 <br>
 
