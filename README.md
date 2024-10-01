@@ -637,6 +637,8 @@ ___
 ![Github Logo](https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Github-128.png "Title text")
 ```
 
+<br>
+
 
 ## 5.2 ‣ Image Embed element : \<img>
 
