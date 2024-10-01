@@ -649,7 +649,7 @@ Syntax:
 ```
 
 ##
-### 7.12 | Fenced code blocks
+### 7.2 | Fenced code blocks
 In GitHub Flavored Markdown (GFM), you can create code blocks by wrapping your code with three backticks, avoiding the need for leading spaces. <br>
 You can also add an optional language identifier to enable syntax highlighting for your code.
 
@@ -707,6 +707,7 @@ Preview:
 ```
 
 Syntax:
+
 ````md
 ```diff
 - Text Color Red
