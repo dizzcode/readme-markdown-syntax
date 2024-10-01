@@ -991,12 +991,14 @@ $\frac{2a+b}{c} = d$
 ##
 ### 10.2 | Block Expressions
 
-To display a mathematical expression as a multiline block, start a new line and enclose the expression with two dollar symbols $$.  
+To display a mathematical expression as a multiline block, start a new line and enclose the expression with two dollar symbols `$$`.  
 This format is particularly useful for complex equations or when you want to emphasize the math content.
 
 Here’s an example of a block expression:
 
-*Preview:*  
+*Preview:* 
+<br>
+
 $$\int_{a}^{b} f(x) \, dx = F(b) - F(a)$$
 
 <br>
