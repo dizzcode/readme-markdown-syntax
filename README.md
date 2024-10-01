@@ -10,6 +10,7 @@ It’s commonly applied in Gists, comments, and files with .md or .markdown exte
 - [4 | Links](#4--links)
 - [5 | Images](#5--images)
 - [6 | Alignments](#6--alignments)
+- [7 | Code Block](#7--code-block)
 
 <br>
 
@@ -627,6 +628,114 @@ Here is a simple footnote[^1]. Some other important footnote.[^2]
 <br>
 <br>
 
+
+___
+
+# 7 | Code Block
+
+### Basic style
+You can create code blocks by placing triple backticks ``` before and after the code block. 
+
+Preview:
+```
+this is an example of code.
+```
+
+Syntax:
+```
+    ```
+    this is an example of code.
+    ```
+```
+
+##
+### Fenced code blocks
+With GFM you can wrap your code with three back quotes to create a code block without the leading spaces. <br>
+Add annoptional language identifier and your code will get syntax highlighting.
+
+````md
+```java
+public static void main(String[]args){} 
+//Java Code
+```
+````
+
+````md
+```javascript
+console.log('javascript')
+//Javascipt code
+```
+````
+
+````md
+```python
+print('python')
+```
+````
+
+````md
+```json
+{
+  "firstName": "A",
+  "lastName": "B",
+  "age": 18
+}
+```
+````
+
+
+##
+### Diff Code block
+
+In version control, diff highlights changes in various colors. In GitHub Flavored Markdown (GFM), you can display:
+
+- Green for additions (+)
+- Red for deletions (-)
+- Orange for changes (!)
+- Gray for comments (#)
+- Purple and bold for metadata (@@)
+Use the same syntax as fenced code blocks but specify diff after the three backticks.
+
+```diff
+- Text Color Red
++ Text Color Green
+! Text Color Orange
+# Text Color Gray
+@@ Text Color Purple And Bold @@
+```
+
+````md
+```diff
+- Text Color Red
++ Text Color Green
+! Text Color Orange
+# Text Color Gray
+@@ Text Color Purple And Bold @@
+```
+````
+
+##
+### Recommendation > Use YAML : A Human-Friendly Data Serialization Language
+
+```yaml
+name: John Doe
+location: New York, USA
+origin: Canada
+education: Bachelor's in Computer Science
+occupation: Software Engineer
+company: ***
+
+```
+___
+
+
+
+
+
+
+
+
+
 #
 #
 
@@ -792,101 +901,6 @@ ___
 
 To see a list of every image Github supports, check out the [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
-___
-
-### Code Block
-There are three ways to add code in markdown
-1. Inline Code (single backtick)
-2. Whitespace
-
-```git
-    `this` is an example of inline code.
-```
-    four spaces work too!
-    
-3. Fenced code blocks
-With GFM you can wrap your code with three back quotes to create a code block without the leading spaces. Add annoptional language identifier and your code will get syntax highlighting.
-
-```Java
-public static void main(String[]args){} //Java
-```
-
-```javascript
-document.getElementById("myH1").innerHTML="Welcome to my Homepage"; //javascipt
-```
-
-___
-
-### Syntax Highlighting
-If language name is mentioned after the end of first set of backticks, the code snippet will be highlighted according to the language.
-
-    ```js
-    console.log('javascript')
-    ```
-    
-    ```python
-    print('python')
-    ```
-    
-    ```java
-    System.out.println('java')
-    ```
-       
-    ```json
-    {
-      "firstName": "A",
-      "lastName": "B
-      "age": 18
-    }
-    ```
-
-```js
-console.log('javascript')
-```
-
-```python
-print('python')
-```
-
-```java
-System.out.println('java')
-```
-
-```json
-{
-  "firstName": "A",
-  "lastName": "B",
-  "age": 18
-}
-```
-___
-
-### diff syntax
-
-In the version control system, the function of diff is indispensable, i.e., the addition and deletion of a file content is displayed.
-The diff effect that can be displayed in GFM. Green is for new, while red is for deleted.
-#### Syntax
-The syntax is similar to code [fenced code blocks](#fenced-code-blocks), except that the diff is written after the three backticks.
-And in the content, the beginning of `+ ` indicates the addition, and the beginning of `- ` indicates the deletion.
-
-```diff
-+ Hello world!
-- This is useless.
-```
-
-___
-
-### Use YAML: human friendly data serialization language for all programming languages
-
-```yaml
-name: Mariam
-located_in: ***
-from: ***
-education: ***
-job: ***
-company: ***
-```
-___
 
 ### Anchor
 In fact, each title is an anchor, similar to the HTML anchor (`#`), e.g.
