@@ -1109,7 +1109,6 @@ or you can use shortcode format
 
 :deciduous_tree: :bear: :honey_pot: :hibiscus:
 
-<br>
 
 ` Syntax : `
 
@@ -1123,19 +1122,20 @@ For a comprehensive list of all supported emojis on GitHub, check out the [Emoji
 ##
 ### 8.3 ‣ Quoting Text / Blockquotes >
 
-`Preview :`
+*Preview :*
 
 > This is a block quoted text
 
 <br>
 
-` Syntax : `
+**Syntax :**
 
 ```git
 > This is a block quoted text
 ```
 <br>
-*Difference*
+
+**Difference**
 <br>
 <br>
 
@@ -1225,11 +1225,10 @@ Each title in GitHub Flavored Markdown (GFM) serves as an anchor, similar to an 
  
 To make special characters visible in Markdown, you can escape them using a backslash (\\). Here are some common examples:
 
-*Preview:*  
+`Preview :`
 
 \<br>
 
-<br>
 
 ` Syntax : `
 
@@ -1242,7 +1241,6 @@ To make special characters visible in Markdown, you can escape them using a back
 
 You can add comments in Markdown using HTML-style comments:
 
-<br>
 
 ` Syntax : `
 
