@@ -761,16 +761,32 @@ ___
 ```
 
 
+<br>  
+
+___
+
+___
+
 <br>
-<!-- -------------------------|-| Alignments |-|-------------------------- -->
+
+<!-- ------------------------------------------------------------------ -->
+<!-- -------------------------| 6 | Alignments |-|-------------------------- -->
+<!-- ------------------------------------------------------------------ -->
 
 # 6 | Alignments
 
 ## 6.1 | Text Alignments
 
+
+`Preview :`
+
 <h3 align="left"> Heading Left </h3>
 <h3 align="center"> Heading Center </h3>
 <h3 align="right"> Heading Right </h3>
+
+<br>
+
+` Syntax : `
 
 ```md
 <h3 align="left"> Heading Left </h3>
@@ -782,6 +798,8 @@ ___
 
 ### Left
 
+`Preview :`
+
 <p align="left">
 <img 
     src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/image_file.png" 
@@ -789,6 +807,10 @@ ___
     height="128" 
 />
 </p>
+
+<br>
+
+` Syntax : `
 
 ```md
 <p align="left">
@@ -803,6 +825,8 @@ ___
 
 ### Center
 
+`Preview :`
+
 <p align="center">
 <img 
     src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/image_file.png" 
@@ -810,6 +834,10 @@ ___
     height="128" 
 />
 </p>
+
+<br>
+
+` Syntax : `
 
 ```md
 <p align="center">
@@ -824,6 +852,8 @@ ___
 
 ### Right
 
+`Preview :`
+
 <p align="right">
 <img 
     src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/image_file.png" 
@@ -831,6 +861,10 @@ ___
     height="128" 
 />
 </p>
+
+<br>
+
+` Syntax : `
 
 ```md
 <p align="right">
@@ -844,6 +878,8 @@ ___
 ##
 
 ### Multiple Images
+
+`Preview :`
 
 <p align="center">
 <img 
@@ -859,6 +895,10 @@ ___
     width="160" height="280" 
 />
 </p>
+
+<br>
+
+` Syntax : `
 
 
 ```md
