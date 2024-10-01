@@ -1270,12 +1270,14 @@ ___
 
 ### Style 1
 
-*Preview:*  
+`Preview :`
 
 #
 
-  
-**Syntax:**
+<br>
+
+` Syntax : `
+
 ```md
 #
 ```
@@ -1289,12 +1291,14 @@ Alternative ways
 
 ### Style 2
 
-*Preview:*  
+`Preview :` 
 
 ___
 
-  
-**Syntax:**
+<br>
+
+` Syntax : `
+
 ```md
 ___
 ```
@@ -1317,11 +1321,14 @@ Alternative ways
 ##
 ### 9.2 ‣ Break between lines \<br>
 
+`Preview :`
+
 This is a <br>normal text
 
 <br>
 
-**Syntax:**
+` Syntax : `
+
 ```md
 This is a <br>normal text
 ```
