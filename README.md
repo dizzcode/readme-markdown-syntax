@@ -973,9 +973,11 @@ Here’s a basic example:
 $\sqrt{5x}+(25+x)^2$
 
 Additionally, you can use the following expression to demonstrate inline math:
-
+<br>
 
 *Preview:*  
+<br>
+
 This sentence uses `$` delimiters to show math inline:  
 $\frac{2a+b}{c} = d$
 
@@ -995,15 +997,13 @@ This format is particularly useful for complex equations or when you want to emp
 Here’s an example of a block expression:
 
 *Preview:*  
-$$
-\int_{a}^{b} f(x) \, dx = F(b) - F(a)
-$$
+$$\int_{a}^{b} f(x) \, dx = F(b) - F(a)$$
+
+<br>
 
 **Syntax:**
 ```md
-$$
-\int_{a}^{b} f(x) \, dx = F(b) - F(a)
-$$
+$$\int_{a}^{b} f(x) \, dx = F(b) - F(a)$$
 ```
 
 
