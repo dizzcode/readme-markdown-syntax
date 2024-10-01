@@ -693,8 +693,10 @@ In version control, diff highlights changes in various colors. In GitHub Flavore
 - Red for deletions (-)
 - Orange for changes (!)
 - Gray for comments (#)
-- Purple and bold for metadata (@@)
+- Purple and bold for metadata (@@) <br>
 Use the same syntax as fenced code blocks but specify diff after the three backticks.
+
+Preview:
 
 ```diff
 - Text Color Red
@@ -704,6 +706,7 @@ Use the same syntax as fenced code blocks but specify diff after the three backt
 @@ Text Color Purple And Bold @@
 ```
 
+Syntax:
 ````md
 ```diff
 - Text Color Red
