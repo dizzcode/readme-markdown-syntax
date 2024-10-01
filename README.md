@@ -524,8 +524,6 @@ GitHub : [Login](https://github.com/login "Sign in to GitHub! Click here") : Let
 [Example Document](/src/example.md)
 ```
 
-<br>
-
 #
 
 `Preview :`
@@ -540,7 +538,6 @@ GitHub : [Login](https://github.com/login "Sign in to GitHub! Click here") : Let
 [README Document](README.md)
 ```
 
-<br>
 
 #
 
@@ -555,6 +552,8 @@ GitHub : [Login](https://github.com/login "Sign in to GitHub! Click here") : Let
 ```md
 [SRC Directory](./src)
 ```
+
+<br>
 <br>
 
 ## 4.5 ‣ Footnote 
