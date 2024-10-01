@@ -1268,7 +1268,7 @@ ___
 
 ### 9.1 ‣ Horizontal Line
 
-### Style 1
+### ‣ Style 1
 
 `Preview :`
 
@@ -1289,7 +1289,7 @@ Alternative ways
 ```
 <br>
 
-### Style 2
+### ‣ Style 2
 
 `Preview :` 
 
@@ -1360,13 +1360,16 @@ $\sqrt{5x}+(25+x)^2$
 Additionally, you can use the following expression to demonstrate inline math:
 <br>
 
-*Preview:*
+`Preview :`
 <br>
 
 This sentence uses `$` delimiters to show math inline:  
 $\frac{2a+b}{c} = d$
 
-**Syntax:**
+<br>
+
+` Syntax : `
+
 ```md
 This sentence uses `$` delimiters to show math inline:  
 $\frac{2a+b}{c} = d$
@@ -1381,14 +1384,15 @@ This format is particularly useful for complex equations or when you want to emp
 
 Here’s an example of a block expression:
 
-*Preview:* 
+`Preview :` 
 <br>
 
 $$\int_{a}^{b} f(x) \, dx = F(b) - F(a)$$
 
 <br>
 
-**Syntax:**
+` Syntax : `
+
 ```md
 $$\int_{a}^{b} f(x) \, dx = F(b) - F(a)$$
 ```
