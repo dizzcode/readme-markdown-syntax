@@ -1,24 +1,34 @@
-<h1 align="center">Readme Markdown Syntax Guide</h1>
+<div align="center">
+
+# Readme Markdown Syntax Guide
+
+☙◦
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+◦❧
+
+</div>
 
 **Markdown is a simple text formatting tool, widely used on platforms such as GitHub, GitLab, and Bitbucket. In repositories, the readme.md file serves as a file descriptor, offering essential project details.**
 
 It’s commonly applied in Gists, comments, and files with .md or .markdown extensions. Markdown is also popular for content writing on websites and blogs, as well as for creating documentation and installation guides within project directories.
 
+
 ## Contents
 
-- [1 | Headings](#1--headings)
-- [2 | Text styles](#2--text-styles)
-- [3 | Lists](#3--lists)
-- [4 | Links](#4--links)
-- [5 | Images](#5--images)
-- [6 | Alignments](#6--alignments)
-- [7 | Code Block](#7--code-block)
-- [8 | Text Decoration](#8--text-decoration)
-- [9 | Line Settings](#9--line-settings)
-- [10 | Mathematical Expressions](#10--mathematical-expressions)
-- [11 | View components](#11--view-components)
-- [12 | Markdown Alerts](#12--markdown-alerts)
-- [13 | Tables](#13--tables)
+1. [Headings](#1--headings)
+2. [Text styles](#2--text-styles)
+3. [Lists](#3--lists)
+4. [Links](#4--links)
+5. [Images](#5--images)
+6. [Alignments](#6--alignments)
+7. [Code Block](#7--code-block)
+8. [Text Decoration](#8--text-decoration)
+9. [Line Settings](#9--line-settings)
+10. [Mathematical Expressions](#10--mathematical-expressions)
+11. [View components](#11--view-components)
+12. [Markdown Alerts](#12--markdown-alerts)
+13. [Tables](#13--tables)
+
 
 <br>
 
