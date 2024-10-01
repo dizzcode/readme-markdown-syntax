@@ -114,12 +114,16 @@ Alternative ways to __bold text__
 Alternative ways to <strong>bold text</strong>
 ```
 <br>
+
 <!-- -------------------------- Italic -------------------------- -->
 
-# 
 ## 2.2 ‣ Italic
 
+`Preview :`
+
 *Italic Text Style*  
+
+` Syntax : `
 
 ```md
 *Italic Text Style*
