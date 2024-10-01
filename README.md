@@ -975,7 +975,7 @@ $\sqrt{5x}+(25+x)^2$
 Additionally, you can use the following expression to demonstrate inline math:
 <br>
 
-*Preview:*  
+*Preview:*
 <br>
 
 This sentence uses `$` delimiters to show math inline:  
