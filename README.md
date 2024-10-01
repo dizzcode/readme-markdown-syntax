@@ -49,7 +49,7 @@ ___
 <!-- -------------------------|-| Headings |-|-------------------------- -->
 # 1 | Headings
 
-<samp>⛉ Preview :</samp>  
+`Preview :`
 
 # H1
 ## H2
@@ -60,7 +60,7 @@ ___
 
 <br>
 
-<samp>**⛊ Syntax :** </samp>  
+` Syntax : `
 
 ```git
 # H1
@@ -93,10 +93,15 @@ ___
 
 # 2 | Text styles
 <!-- -------------------------- Bold -------------------------- -->
+## 2.1 ‣ Bold
 
-## 2.1 | Bold
+`Preview :`
 
 **Bold Text Style**  
+
+<br>
+
+` Syntax : `
 
 ```md
 **Bold Text Style**
@@ -111,7 +116,8 @@ Alternative ways to <strong>bold text</strong>
 <br>
 <!-- -------------------------- Italic -------------------------- -->
 
-## 2.2 | Italic
+# 
+## 2.2 ‣ Italic
 
 *Italic Text Style*  
 
@@ -128,7 +134,7 @@ Alternative ways to <em>italic text</em>
 <br>
 <!-- -------------------------- Bold and Italic -------------------------- -->
 
-## 2.3 | Bold and Italic
+## 2.3 ‣ Bold and Italic
 
 ***Bold and Italic Text Style***
 
@@ -145,7 +151,7 @@ Alternative ways to <strong><em>bold and italic text</em></strong>
 <br>
 <!-- -------------------------- Strikethrough -------------------------- -->
 
-## 2.4 | Strikethrough
+## 2.4 ‣ Strikethrough
 
 ~~Strikethrough Text~~
 
@@ -162,7 +168,7 @@ Alternative ways to <strike>strikethrough text</strike>
 <br>
 <!-- -------------------------- Bold, Italic and Strikethrough -------------------------- -->
 
-## 2.5 | Bold, Italic and Strikethrough
+## 2.5 ‣ Bold, Italic and Strikethrough
 
 ***~~Bold, Italic and Strikethrough Text~~***
 
@@ -172,7 +178,7 @@ Alternative ways to <strike>strikethrough text</strike>
 <br>
 <!-- -------------------------- Underlined -------------------------- -->
 
-## 2.6 | Underlined
+## 2.6 ‣ Underlined
 
 <ins>Underlined Text Style</ins>
 
@@ -182,7 +188,7 @@ Alternative ways to <strike>strikethrough text</strike>
 <br>
 <!-- -------------------------- Boxed -------------------------- -->
 
-## 2.7 | Boxed
+## 2.7 ‣ Boxed
 
 <table><tr><td>Boxed Text Style</td></tr></table>
 
@@ -192,7 +198,7 @@ Alternative ways to <strike>strikethrough text</strike>
 <br>
 <!-- -------------------------- Subscript & Superscript -------------------------- -->
 
-## 2.8 | Subscript & Superscript
+## 2.8 ‣ Subscript & Superscript
 
 This is the   <sub>Subscript</sub>   text style  
 log<sub>2</sub>(x)
@@ -213,7 +219,7 @@ This is the <sup>Superscript</sup> text style
 <br>
 <!-- -------------------------- Monospaced -------------------------- -->
 
-## 2.9 | Monospaced
+## 2.9 ‣ Monospaced
 
 This is the normal text style  
 <samp>This is the Monospaced text style</samp> 
