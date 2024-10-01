@@ -860,6 +860,7 @@ Each title in GitHub Flavored Markdown (GFM) serves as an anchor, similar to an 
 [Back to contents](#contents)
 ```
 
+##
 ### 8.7 | Visible markdown characters
  
 To make special characters visible in Markdown, you can escape them using a backslash (\\). Here are some common examples:
@@ -874,6 +875,7 @@ To make special characters visible in Markdown, you can escape them using a back
 \<br>
 ```
 
+##
 ### 8.8 | Comments in Markdown
 
 You can add comments in Markdown using HTML-style comments:
@@ -882,7 +884,7 @@ You can add comments in Markdown using HTML-style comments:
 <!-- comment written in markdown -->
 ```
 
-These comments will be invisible when viewing the README file.
+#### NOTE : These comments will be invisible when viewing the README file.
 
 
 #
