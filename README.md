@@ -1654,7 +1654,7 @@ ___
 
 ### 13.1 ‣ Basic Table types
 
-*Preview:* 
+`Preview :` 
 <br>  
 
 |Header 1|Header 2|Header 3|
@@ -1663,7 +1663,9 @@ ___
 | Second | Data | Row |
 | Third  | Data | Row |
 
-**Syntax:**
+<br> 
+
+` Syntax : `
 
 ```md
 |Header 1|Header 2|Header 3|
@@ -1701,7 +1703,7 @@ Alternative ways
 - `-:`  Align Right
 
 
-*Preview:* 
+`Preview :`  
 
 | Default | Left  | Center | Right |
 | - | :- | :-: | -: |
@@ -1709,7 +1711,9 @@ Alternative ways
 | 1000000000001 | 1000000000001 | 1000000000001 | 1000000000001 |
 | 20002 | 20002 | 20002 | 20002 |
 
-**Syntax:**
+<br> 
+
+` Syntax : `
 
 ```md
 | Default | Left  | Center | Right |
@@ -1724,13 +1728,15 @@ Alternative ways
 ##
 ### 13.3 ‣ Multi-line data
 
-*Preview:* 
+`Preview :` 
 
 |Header 1|Header 2|Header 3|
 |---|---|---|
 | Data 1 | Data 2 <br> Data 3 <br> Data 4 | Data 5 |
 
-**Syntax:**
+<br> 
+
+` Syntax : `
 
 ```md
 |Header 1|Header 2|Header 3|
@@ -1743,7 +1749,7 @@ Alternative ways
 ##
 ### 13.4 ‣ Nested Table
 
-*Preview:* 
+`Preview :` 
 
 <table>
 <tr>
@@ -1767,9 +1773,10 @@ Alternative ways
 </td></tr> 
 </table>
 
-**Syntax:**
+<br> 
 
-```md
+` Syntax : `
+
 <table>
 <tr>
 <th>Header 1</th>
@@ -1798,7 +1805,7 @@ Alternative ways
 ##
 ### 13.5 ‣ Styling
 
-*Preview:* 
+`Preview :` 
 
 <table>
 <tr>
@@ -1833,8 +1840,9 @@ Alternative ways
 </tr>
 </table>
 
+<br> 
 
-**Syntax:**
+` Syntax : `
 
 ```md
 <table>
