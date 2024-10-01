@@ -1077,7 +1077,15 @@ ___
 Using backticks( ` ) is a simple way to create tags for articles, such as <br>
 <br>
 
+`Preview :`
+
+
 `GitHub` : Let's build from here - `any important text`
+
+<br>
+
+` Syntax : `
+
 
 ```git
 `GitHub` : Let's build from here - `any important text`
@@ -1086,17 +1094,25 @@ Using backticks( ` ) is a simple way to create tags for articles, such as <br>
 ##
 ### 8.2 ‣ Emoji
 
+`Preview :and: Syntax`
+
+
 🌳 🐻 🍯 🌺
 
 You can easily add emojis by placing them directly in your text, like this: 🌳 🐻 🍯 🌺
 
 or you can use shortcode format
 
-*Preview:*
+
+`Preview :`
+
 
 :deciduous_tree: :bear: :honey_pot: :hibiscus:
 
-**Syntax:**
+<br>
+
+` Syntax : `
+
 ```md
 :deciduous_tree: :bear: :honey_pot: :hibiscus:
 ```
@@ -1107,8 +1123,13 @@ For a comprehensive list of all supported emojis on GitHub, check out the [Emoji
 ##
 ### 8.3 ‣ Quoting Text / Blockquotes >
 
+`Preview :`
 
 > This is a block quoted text
+
+<br>
+
+` Syntax : `
 
 ```git
 > This is a block quoted text
@@ -1118,10 +1139,16 @@ For a comprehensive list of all supported emojis on GitHub, check out the [Emoji
 <br>
 <br>
 
+`Preview :`
+
 This is a normal text
 > Block quoted text  
 
 This is a normal text
+
+<br>
+
+` Syntax : `
 
 ```git
 This is a normal text
@@ -1132,6 +1159,7 @@ This is a normal text
 ##
 ### 8.4 ‣ Multi-level blockquotes
 
+`Preview :`
 
 > First level
 >> Second level
@@ -1140,6 +1168,8 @@ This is a normal text
 >>>>> Fifth level
 
 <br>
+
+` Syntax : `
 
 ```md
 > First level
@@ -1154,15 +1184,16 @@ This is a normal text
 
 You can add either 2 spaces or 4 spaces at the end of a line before starting a new line to achieve an indented effect.
 
-*Preview:*  
+`Preview :`
 
 First level  
 Second level    
 Third level  
 
+<br>
 
+` Syntax : `
 
-**Syntax:**
 ```md
 First level  
 Second level    
@@ -1176,14 +1207,15 @@ Third level
 Each title in GitHub Flavored Markdown (GFM) serves as an anchor, similar to an HTML anchor (#). For example:
 #### NOTE : Keep in mind that all letters in the title are converted to lowercase.
 
-
-
-*Preview:*  
+`Preview :`
 
 [Back to contents](#contents)
 
-  
-**Syntax:**
+
+<br>
+
+` Syntax : `
+
 ```md
 [Back to contents](#contents)
 ```
@@ -1197,8 +1229,10 @@ To make special characters visible in Markdown, you can escape them using a back
 
 \<br>
 
-  
-**Syntax:**
+<br>
+
+` Syntax : `
+
 ```md
 \<br>
 ```
@@ -1207,6 +1241,10 @@ To make special characters visible in Markdown, you can escape them using a back
 ### 8.8 ‣ Comments in Markdown
 
 You can add comments in Markdown using HTML-style comments:
+
+<br>
+
+` Syntax : `
 
 ```md
 <!-- comment written in markdown -->
