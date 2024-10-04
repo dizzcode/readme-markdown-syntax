@@ -302,6 +302,12 @@ This is the normal text style
 
 ___
 
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
+
 ___
 
 <br>
@@ -425,6 +431,12 @@ Alternative ways
 <br>  
 
 ___
+
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
 
 ___
 
@@ -609,7 +621,14 @@ Github markdown cheat sheet [^2].
 
 ___
 
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
+
 ___
+
 
 <br>
 
@@ -767,7 +786,14 @@ ___
 
 ___
 
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
+
 ___
+
 
 <br>
 
@@ -925,7 +951,14 @@ ___
 
 ___
 
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
+
 ___
+
 
 <br>
 
@@ -1063,6 +1096,12 @@ company: ***
 <br>  
 
 ___
+
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
 
 ___
 
@@ -1257,6 +1296,12 @@ You can add comments in Markdown using HTML-style comments:
 
 ___
 
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
+
 ___
 
 <br>
@@ -1340,7 +1385,14 @@ This is a <br>normal text
 
 ___
 
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
+
 ___
+
 
 <br>
 
@@ -1404,7 +1456,14 @@ $$\int_{a}^{b} f(x) \, dx = F(b) - F(a)$$
 
 ___
 
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
+
 ___
+
 
 <br>
 
@@ -1534,7 +1593,14 @@ To get dynamically generated GitHub stats on your READMEs, check out [GitHub Rea
 
 ___
 
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
+
 ___
+
 
 <br>
 
@@ -1644,7 +1710,14 @@ On GitHub, these alerts are shown with different colors and icons to help users 
 
 ___
 
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
+
 ___
+
 
 <br>
 
@@ -1885,3 +1958,14 @@ Alternative ways
 <br>
 
 ___
+
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
+
+___
+
+<br>
+
